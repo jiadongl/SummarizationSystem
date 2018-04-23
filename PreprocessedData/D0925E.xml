@@ -1,0 +1,1287 @@
+<?xml version="1.0" ?>
+<Topic id="D0925E">
+	<Title>Apple Computer switch to Intel chips</Title>
+	<Narrative>Trace plans for and progress of the switch to Intel chips by Apple Computer.</Narrative>
+	<DocSetA id="D0925E-A">
+		<doc id="NYT_ENG_20050605.0062">APPLE PLANS TO SWITCH FROM IBM TO INTEL FOR CHIPS</doc>
+		<doc id="APW_ENG_20050606.0057">Apple to switch to Intel chips in a snub to IBM</doc>
+		<doc id="AFP_ENG_20050606.0063">Apple to announce a switch to Intel chips: reports
+ATTENTION - RECASTS, ADDS detail ///</doc>
+		<doc id="LTW_ENG_20050606.0159">Apple to Put Intel at Its Core</doc>
+		<doc id="NYT_ENG_20050606.0194">INTEL PROCESSORS TO POWER APPLE'S COMPUTERS</doc>
+		<doc id="XIN_ENG_20050606.0245">Apple announces plans to adopt Intel chips</doc>
+		<doc id="NYT_ENG_20050606.0333">APPLE TO USE INTEL CHIPS</doc>
+		<doc id="AFP_ENG_20050606.0574">Apple, in about-face, switches to Intel chips
+ATTENTION - RECASTS, ADDS IBM reax, analysis ///</doc>
+		<doc id="APW_ENG_20050606.0934">Apple to switch Macs to Intel chips</doc>
+		<doc id="APW_ENG_20050606.1017">Apple's deal with Intel won't rattle IBM's chip plans</doc>
+	</DocSetA>
+	<Sentences>
+		<sentence doc="1" line="1" para="1">Steven P. Jobs is preparing to take an unprecedented gamble by abandoning Apple Computer's 14-year commitment to chips developed by IBM and Motorola in favor of Intel processors for his Macintosh computers, industry executives informed of the decision said Sunday.</sentence>
+		<sentence doc="1" line="1" para="2">The move is a chesslike gambit in a broader industry turf war that pits the traditional personal computer industry against an emerging world of consumer electronics focused on the digital home.</sentence>
+		<sentence doc="1" line="1" para="3">&quot;This is a seismic shift in the world of personal computing and consumer electronics,&quot; said Richard Doherty, president of the Envisioneering Group, a Seaford, N.Y., computer and consumer electronics industry consulting firm.</sentence>
+		<sentence doc="1" line="2" para="3">&quot;It is bound to rock the industry, but it will also be a phenomenal engineering challenge for Apple.&quot;</sentence>
+		<sentence doc="1" line="1" para="4">Jobs is expected to announce the transition to Intel chips at Apple's annual developer conference, which will begin here Monday.</sentence>
+		<sentence doc="1" line="2" para="4">Apple's intention to shift to Intel chips beginning in 2006 was reported Friday by CNET News.com, a technology news service.</sentence>
+		<sentence doc="1" line="3" para="4">The Wall Street Journal had previously reported that Apple and IBM were negotiating.</sentence>
+		<sentence doc="1" line="1" para="5">Apple, according to analysts, has become increasingly alarmed by IBM's failure to deliver a new version of its Power PC chip, called the G5, that does not generate much heat -- a crucial feature for notebook computers, which do not have as much room for fans and ventilation as desktop machines.</sentence>
+		<sentence doc="1" line="1" para="6">Apple's notebooks now use the older G4 chips, made by Freescale Semiconductor, which was spun off from Motorola last year.</sentence>
+		<sentence doc="1" line="1" para="7">&quot;That's a huge looming problem for Apple, if it can't keep up with Intel notebooks in performance,&quot; said Charles Wolf, an analyst for Needham &amp; Co. &quot;And that's been an IBM problem.</sentence>
+		<sentence doc="1" line="2" para="7">IBM hasn't delivered a cool-running G5.&quot;</sentence>
+		<sentence doc="1" line="1" para="8">Jobs is scheduled to take the stage Monday to face his software developers, an important constituency he must convince of the wisdom of the shift.</sentence>
+		<sentence doc="1" line="2" para="8">It is the software developers who will need to do the hard work of making their programs run on Intel chips if Jobs' strategy is to succeed.</sentence>
+		<sentence doc="1" line="1" para="9">Apple must be able to persuade software developers who make business and graphics programs for the Macintosh -- Microsoft, Adobe, Quark and others -- to overhaul their code.</sentence>
+		<sentence doc="1" line="1" para="10">&quot;That's a huge challenge for Apple, to win the software developers over and drag them along,&quot; said Wolf, the Needham analyst.</sentence>
+		<sentence doc="2" line="1" para="1">A stormy, decade-long relationship between Apple Computer Inc. and IBM is over, according to published reports.</sentence>
+		<sentence doc="2" line="1" para="2">Apple CEO Steve Jobs is expected to announce Monday morning at the company's software developers conference in San Francisco that Apple will discontinue using microprocessor chips made by IBM in favor of Intel chips, according to CNET Networks Inc.'s News.com and The Wall Street Journal.</sentence>
+		<sentence doc="2" line="1" para="3">Officials from Apple, Intel Corp. and International Business Machines Corp. could not be reached Sunday to confirm the report.</sentence>
+		<sentence doc="2" line="1" para="4">For years, rumors of Apple's wish to jump to Intel have been circulating.</sentence>
+		<sentence doc="2" line="2" para="4">But two weeks ago, analysts were skeptical when The Wall Street Journal reported that Intel and Apple were in negotiations.</sentence>
+		<sentence doc="2" line="1" para="5">One reason for the skepticism is that the move represents a significant risk for Cupertino, California-based Apple.</sentence>
+		<sentence doc="2" line="1" para="6">Switching to Intel's x86 chips would force Apple's programmers to rewrite its software in order to adapt to the new processor.</sentence>
+		<sentence doc="2" line="1" para="7">&quot;I don't know that Apple's market share can survive another architecture shift,&quot; Insight 64 analyst Nathan Brookwood told News.com.</sentence>
+		<sentence doc="2" line="2" para="7">&quot;Every time they do this, they lose more customers.&quot;</sentence>
+		<sentence doc="2" line="1" para="8">News.com reported that Apple would begin the transition to Intel with its lower-end computers, such as the Mac Mini, in mid-2006 and higher-end models a year later.</sentence>
+		<sentence doc="2" line="1" para="9">Apple's break with IBM stemmed from Jobs' wish that IBM make a larger variety of the PowerPC processors used in Macintosh systems.</sentence>
+		<sentence doc="2" line="2" para="9">IBM balked because of concerns over the profitability of a low-volume business, News.com reported.</sentence>
+		<sentence doc="2" line="1" para="10">By wrestling away Apple's business from IBM, Intel tightens its stranglehold on the PC processor business.</sentence>
+		<sentence doc="2" line="2" para="10">The company holds more than an 80 percent share of the market.</sentence>
+		<sentence doc="2" line="1" para="11">Although IBM suffers a setback with the loss of Apple, the company could reap a financial windfall from deals with Microsoft, Nintendo and Sony Corp. to put microprocessors it is producing in next-generation video-game consoles.</sentence>
+		<sentence doc="2" line="1" para="12">A new microprocessor that IBM co-developed with Sony and Toshiba Corp, code-named Cell and planned for Sony's next PlayStation console, is being touted as capable of delivering 10 times the performance of today's PC processors.</sentence>
+		<sentence doc="3" line="1" para="1">Apple Computer is expected to announce  Monday that it will begin using Intel chips in its Macintosh  machines next year, ending a 14-year alliance with IBM and its  processors, according to US media reports.</sentence>
+		<sentence doc="3" line="1" para="2">The move is a major change in strategy for Apple, according to  The Wall Street Journal's online edition.</sentence>
+		<sentence doc="3" line="2" para="2">The New York Times called  it &quot;an unprecedented gamble.&quot;</sentence>
+		<sentence doc="3" line="1" para="3">&quot;This is a seismic shift in the world of personal computing and  consumer electronics,&quot; Richard Doherty, president of a computer and  consumer electronics industry consulting firm, told the Times.</sentence>
+		<sentence doc="3" line="1" para="4">&quot;It is bound to rock the industry, but it will also be a  phenomenal engineering challenge for Apple,&quot; he said.</sentence>
+		<sentence doc="3" line="1" para="5">Apple CEO and co-founder Steve Jobs is set to announce the  switch Monday at Apple's annual developer's conference in San  Francisco, the reports said.</sentence>
+		<sentence doc="3" line="1" para="6">The change could cause disruptions for Macintosh users as  software developers scramble to make Apple programs run on Intel  chips.</sentence>
+		<sentence doc="3" line="1" para="7">But it is a high-profile win for Intel, the world's largest chip  maker, which is trying to adjust after the erosion of its long-term  partnership with Microsoft, the papers said.</sentence>
+		<sentence doc="3" line="1" para="8">&quot;For IBM, the end of the Apple partnership means the loss of a  prestigious customer, but not one that is any longer very important  to IBM's sales or profits,&quot; according to The New York Times.</sentence>
+		<sentence doc="3" line="1" para="9">IBM has long since expanded beyond the personal computer market.</sentence>
+		<sentence doc="3" line="2" para="9">It makes chips for Sony and Nintendo's video game machines as well  as specialized processors for Internet routers and for cell phone  technology.</sentence>
+		<sentence doc="3" line="1" para="10">Microsoft dealt Intel a blow last year when it said it would use  an IBM processor in its next generation video game console, the Xbox  360, due to hit stores later this year.</sentence>
+		<sentence doc="3" line="1" para="11">&quot;It is likely that Intel forged the alliance with Apple in an  effort to counter the powerful home entertainment and game systems  coming from Microsoft and Sony,&quot; the Times said.</sentence>
+		<sentence doc="3" line="1" para="12">Apple for its part had tried to counter the Microsoft-Intel  partnership when it forged the alliance in 1991 with IBM and  Motorola.</sentence>
+		<sentence doc="3" line="1" para="13">Today, IBM supplies about half of the microprocessors used by  Apple, and Freescale Semiconductor, a spinoff of Motorola, supplies  the rest.</sentence>
+		<sentence doc="3" line="1" para="14">But in recent times Apple has been alarmed by IBM's failure to  update its Power PC chip, the Times said, citing analysts.</sentence>
+		<sentence doc="4" line="1" para="1">Monday's announcement that Apple Computer Inc. will use Intel Corp. chips in its PCs made the Mac faithful think: different.</sentence>
+		<sentence doc="4" line="1" para="2">After weeks of rumors and speculation, Apple Chief Executive Steve Jobs told software engineers at the company's annual developer conference that Intel microprocessors would power Macintosh computers beginning next year, with Intel inside all Apple computers by 2007.</sentence>
+		<sentence doc="4" line="1" para="3">The move ends a long and sometimes-stormy relationship between Apple and IBM Corp., which builds the Mac's current PowerPC chips, and Motorola Inc., which makes chips for Apple laptops.</sentence>
+		<sentence doc="4" line="2" para="3">Intel supplies most of the chips that power PCs running the Windows operating system of Apple archrival Microsoft Corp.</sentence>
+		<sentence doc="4" line="3" para="3">So closely aligned are Microsoft and Intel that they often are referred to as Wintel.</sentence>
+		<sentence doc="4" line="1" para="4">So to some of Apple's Macolytes, the new alliance portended something sinister for the Cupertino-based company that has leveraged the success of its iPod portable music players to boost sales of its stylish but pricey PCs.</sentence>
+		<sentence doc="4" line="1" para="5">``Where does this lead us?''</sentence>
+		<sentence doc="4" line="2" para="5">Jobs asked from the stage.</sentence>
+		<sentence doc="4" line="3" para="5">Before Jobs could answer himself, someone in the audience cracked: ``Down the road to hell.''</sentence>
+		<sentence doc="4" line="1" para="6">Despite sentiments like that, computer industry analysts and many Mac users discounted the long-term effects of the change, saying Apple has built its reputation on software and design rather than the raw computing power of its machines.</sentence>
+		<sentence doc="4" line="2" para="6">By switching to Intel, they said, Apple may be able to cut prices on its computers and compete more directly against low-cost sellers such as Dell Inc.</sentence>
+		<sentence doc="4" line="1" para="7">In wooing Apple, Santa Clara-based Intel can claim the prestige of supplying one of Silicon Valley's most finicky customers, but the financial benefits will be relatively small.</sentence>
+		<sentence doc="4" line="2" para="7">Intel is the world's largest chip maker and Apple is one of the smallest major PC makers, with just under 4 percent of the market.</sentence>
+		<sentence doc="4" line="1" para="8">For its part, Armonk, N.Y.-based IBM has already focused its energies on building chips for the fast-growing video game industry.</sentence>
+		<sentence doc="4" line="2" para="8">Its chip technology will power next-generation game consoles from all three of the major game companies -- Microsoft, Sony Corp. and Nintendo Co.</sentence>
+		<sentence doc="4" line="1" para="9">On a generally flat day on the financial markets, Apple shares fell 32 cents to $37.92, Intel dropped 16 cents to $27.17 and IBM lost 79 cents to $75.</sentence>
+		<sentence doc="4" line="1" para="10">Jobs described the switch to Intel as the third major transition for Mac computers since the company was formed in 1976.</sentence>
+		<sentence doc="4" line="2" para="10">The other two were the initial switch to PowerPC chips between 1994 and 1996 and the move to a new operating system, OS X, between 2001 and 2003.</sentence>
+		<sentence doc="4" line="1" para="11">The change was fueled by a desire ``to make the best computers going forward,'' Jobs said, noting that he promised high-performance desktop and laptop models two years ago that never materialized.</sentence>
+		<sentence doc="4" line="2" para="11">``We envision amazing products we want to build for you.</sentence>
+		<sentence doc="4" line="3" para="11">But we don't know how to do it on the future of PowerPC.''</sentence>
+		<sentence doc="4" line="1" para="12">He did not cite IBM by name, but Apple reportedly had been frustrated by IBM's inability to develop a chip that could process immense amounts of data without overheating.</sentence>
+		<sentence doc="4" line="2" para="12">Intel, by contrast, touts its cool-running chips that consume less power.</sentence>
+		<sentence doc="4" line="1" para="13">But just because the chips are the same, differences will still exist between Macs and other PCs.</sentence>
+		<sentence doc="4" line="2" para="13">Most noticeably, Apple will continue to promote the virtues of its operating system, which is widely viewed as more stable and secure than Windows even if it runs a fraction of the programs.</sentence>
+		<sentence doc="4" line="1" para="14">``This is not a clone play,'' said Jupiter Research consultant Michael Gartenberg.</sentence>
+		<sentence doc="4" line="2" para="14">``OS X won't run on a Dell or HP machine.</sentence>
+		<sentence doc="4" line="3" para="14">Will someone come up with a hack to do so?</sentence>
+		<sentence doc="4" line="4" para="14">Absolutely.</sentence>
+		<sentence doc="4" line="5" para="14">But the OS X installer will not allow it to work on a non-Apple machine that's not from Cupertino.</sentence>
+		<sentence doc="4" line="6" para="14">But I can imagine Microsoft creating an app where you push a button and get OS X, and push a button and get Windows.''</sentence>
+		<sentence doc="5" line="1" para="1">Apple Computer Inc. Monday dumped IBM Corp. as the supplier of processor chips for its Macintosh computers.</sentence>
+		<sentence doc="5" line="2" para="1">Starting next year, future Macs will use Intel Corp. processors, the same kinds of chips found in millions of PCs running software from Apple's archrival Microsoft Corp.</sentence>
+		<sentence doc="5" line="1" para="2">Apple plans to have its first Intel-based computers available a year from now, and its entire line of desktop and notebook computers are to feature Intel chips by 2007.</sentence>
+		<sentence doc="5" line="1" para="3">The company did not say which Intel chips would be used in its products, but Intel spokesman Charles Mulloy said they would be standard Intel processors, just like the Pentium 4 processors found in PCs running Microsoft's Windows operating system.</sentence>
+		<sentence doc="5" line="1" para="4">The deal, revealed at Apple's annual San Francisco conference for software developers, had been widely rumored in recent weeks.</sentence>
+		<sentence doc="5" line="2" para="4">The original Mac, released in 1984, used a processor made by Motorola Inc. A decade ago, Apple switched to PowerPC, a chip designed by Motorola and IBM.</sentence>
+		<sentence doc="5" line="1" para="5">By PC industry standards, the deal is small potatoes.</sentence>
+		<sentence doc="5" line="2" para="5">Apple sold 3.8 million Mac computers over the past four quarters, giving it less than 3 percent of the worldwide desktop computer market.</sentence>
+		<sentence doc="5" line="1" para="6">But Roger Kay, vice president for client computing at IDC Corp. in Framingham, said Intel will derive big benefits thanks to Apple's reputation.</sentence>
+		<sentence doc="5" line="2" para="6">&quot;It's not just 2 percent of the market share, it's also a very prestigious company,&quot; Kay said.</sentence>
+		<sentence doc="5" line="1" para="7">Apple's iPod music players and iTunes Internet music retail store have made the company one of America's most respected electronics firms, and Kay said that some of that cachet could rub off on Intel.</sentence>
+		<sentence doc="5" line="1" para="8">IBM has endured major technical difficulties in producing sufficient quantities of the PowerPC G5, the chip used in today's Macs, and Apple has publicly criticized IBM for problems which forced Apple to delay the release of faster Macs.</sentence>
+		<sentence doc="5" line="2" para="8">IBM also failed to deliver a low-power version of the G5 suitable for use in laptop computers.</sentence>
+		<sentence doc="5" line="1" para="9">Stephen Baker, director of industry analysis at the NPD Group in Port Washington, N.Y., said Apple's inability to put its most powerful chip in a laptop was a major problem, at a time when laptop sales are on the upswing.</sentence>
+		<sentence doc="5" line="1" para="10">&quot;I think Apple looked out and said, what are we going to do here?</sentence>
+		<sentence doc="5" line="2" para="10">We're really losing ground,&quot; Baker said.</sentence>
+		<sentence doc="5" line="3" para="10">Intel makes the Pentium M, a cool-running chip designed especially for laptops.</sentence>
+		<sentence doc="5" line="4" para="10">Baker predicted the first Apple machines with Intel processors would probably be laptops, and perhaps the low-end Mac Mini home machine.</sentence>
+		<sentence doc="5" line="1" para="11">Apple has not said how long it will continue to provide technical support for owners of Macs based on IBM chips, but the company may have to give strong pledges of support, or sharp discounts, to sell its remaining stock of IBM-based machines.</sentence>
+		<sentence doc="5" line="1" para="12">The NPD Group's Baker warned that as the release date of the new Intel Macs draws near, many people will delay their purchases until the new machines go on sale.</sentence>
+		<sentence doc="5" line="2" para="12">&quot;It's when you get into that last three months or so and everybody knows it's coming,&quot; Baker said.</sentence>
+		<sentence doc="5" line="3" para="12">&quot;That's when it's going to be very difficult for them to get people into the stores.&quot;</sentence>
+		<sentence doc="5" line="1" para="13">Hiawatha Bray can be reached at brayglobe.com.</sentence>
+		<sentence doc="6" line="1" para="1">Apple announced on Monday plans to deliver models of its Macintosh computers using Intel  microprocessors in 2006 and to convert all of its Macs to use  Intel microprocessors by the end of 2007.</sentence>
+		<sentence doc="6" line="1" para="2">Apple previewed a version of its operating system, Mac OS X  Tiger, running on an Intel-based Mac to the over 3,800 developers  attending its Worldwide Developer Conference in San Francisco.</sentence>
+		<sentence doc="6" line="1" para="3">Apple's computers are now installed with PowerPC  microprocessors from IBM, which are different in design from the  popular X-86 chips of Intel and AMD.</sentence>
+		<sentence doc="6" line="1" para="4">&quot;It's been 10 years since our transition to the PowerPC, and we think Intel's technology will help us create the best personal  computers for the next 10 years,&quot; said Steve Jobs, Apple's CEO.</sentence>
+		<sentence doc="6" line="1" para="5">Apple announced the availability of a Developer Transition Kit, consisting of an Intel-based Mac development system along with  preview versions of Apple's software, which will allow developers  to prepare versions of their applications which will run on both  PowerPC and Intel-based Macs.</sentence>
+		<sentence doc="6" line="1" para="6">Paul Otellini, president and CEO of Intel, hailed Apple's  decision to adopt Intel chips, saying his company is &quot;thrilled to  have the world's most innovative personal computer company as a  customer.&quot;</sentence>
+		<sentence doc="7" line="1" para="1">Apple Computer Inc. began a historic transition Monday: The Cupertino, Calif., firm plans to switch to Intel Corp. microprocessors for its Macintosh lineup starting next year.</sentence>
+		<sentence doc="7" line="1" para="2">Ending weeks of speculation, Apple Chief Executive Officer Steve Jobs confirmed plans to dump its current lineup of PowerPC chips, which Apple has long touted as superior to Intel chips.</sentence>
+		<sentence doc="7" line="2" para="2">Jobs said the two firms that have supplied Apple with microprocessors for years, IBM and the Motorola spin-off Freescale, can no longer supply the kinds of chips that Apple needs for future products.</sentence>
+		<sentence doc="7" line="1" para="3">Jobs warmly embraced Intel President and CEO Paul Otellini onstage before hundreds of attendees at the Apple Worldwide Developers Conference, in a gesture that symbolized the new partnership between the two iconic Silicon Valley companies.</sentence>
+		<sentence doc="7" line="1" para="4">&quot;We're so happy the world's most innovative computer company and the world's most innovative chip company have finally teamed up,&quot; Otellini told the crowd at San Francisco's Moscone Center West.</sentence>
+		<sentence doc="7" line="2" para="4">&quot;I think this brings together the skills and the engineering excellence of two great companies.&quot;</sentence>
+		<sentence doc="7" line="1" para="5">Apple plans to make the transition over a 21/2-year period.</sentence>
+		<sentence doc="7" line="2" para="5">Some Macs with Intel inside are scheduled to be released in June 2006, with most of the lineup to be converted by June 2007.</sentence>
+		<sentence doc="7" line="3" para="5">Jobs said he hopes the full switch will be completed by the end of 2007.</sentence>
+		<sentence doc="7" line="1" para="6">Although there has been much speculation through the years about such a partnership, few realized how long the two firms have been working on this.</sentence>
+		<sentence doc="7" line="1" para="7">In his speech, Jobs revealed that a team of Apple engineers has been secretly working on a transition from IBM's PowerPC platform to an Intel-based architecture for five years inside a building on the firm's Cupertino campus.</sentence>
+		<sentence doc="7" line="1" para="8">In fact, every edition of Macintosh OS X that has been released since then has been been designed to also run on the Intel platform &quot;just in case,&quot; Jobs said.</sentence>
+		<sentence doc="7" line="1" para="9">&quot;The Mac OS has been leading a secret double life for the past five years,&quot; Jobs said.</sentence>
+		<sentence doc="7" line="2" para="9">&quot;So Mac OS X is cross-platform by design right from the very beginning.&quot;</sentence>
+		<sentence doc="7" line="1" para="10">A few developers in the audience groaned when Jobs confirmed the switch, but later cheered when Jobs demonstrated a Macintosh desktop that was already operating on an Intel Pentium 4 3.6 GHz processor.</sentence>
+		<sentence doc="7" line="1" para="11">Jobs said Apple decided to start the transition now because Intel's microprocessor development road map promises features, like more efficient power consumption, that Apple did not foresee in similar plans for the PowerPC chip.</sentence>
+		<sentence doc="7" line="1" para="12">Apple had great products planned, but &quot;we don't know how to build them with the current PowerPC program,&quot; Jobs said.</sentence>
+		<sentence doc="7" line="1" para="13">Apple's move marks a significant but risky combination between two of Silicon Valley's largest, most visible players.</sentence>
+		<sentence doc="7" line="1" para="14">&quot;Every time they've tried to make this kind of transition, they've managed to lose market share,&quot; said Nathan Brookwood, an analyst at market research firm Insight 64.</sentence>
+		<sentence doc="7" line="2" para="14">&quot;And they don't have that much market share to lose.&quot;</sentence>
+		<sentence doc="7" line="1" para="15">Shaw Wu, an analyst with American Technology Research of San Francisco, said the Apple-Intel alliance also presents a marketing problem, because Apple has spent more than 10 years touting the superiority of its PowerPC chips over Intel's Pentium.</sentence>
+		<sentence doc="7" line="2" para="15">Apple &quot;could risk alienating some of its loyal customer base,&quot; Wu said in a report.</sentence>
+		<sentence doc="7" line="1" para="16">&quot;It's a gamble,&quot; said Kevin Krewell, an analyst at In-Stat/MDR, noting that a transition to a new chip is never easy.</sentence>
+		<sentence doc="7" line="2" para="16">&quot;But if anyone can make this transition, it's Apple.</sentence>
+		<sentence doc="7" line="3" para="16">They've done more transitions than anyone else.&quot;</sentence>
+		<sentence doc="7" line="1" para="17">The news Monday didn't make waves on Wall Street.</sentence>
+		<sentence doc="7" line="2" para="17">Apple closed at $37.92, down 32 cents per share in Nasdaq trading.</sentence>
+		<sentence doc="7" line="3" para="17">Intel shares were down 62 cents, closing at $19.79.</sentence>
+		<sentence doc="7" line="1" para="18">The agreement has major symbolic value, bridging the gap between two firms that have been on ideologically opposite sides of the tech world for 25 years.</sentence>
+		<sentence doc="7" line="1" para="19">Apple has been using Motorola chips since the early 1980s, when the firm essentially inaugurated the personal computing era.</sentence>
+		<sentence doc="7" line="2" para="19">In 1991, Motorola and IBM began collaborating on the PowerPC, which then became the central brain for Apple's Macintosh computers.</sentence>
+		<sentence doc="7" line="1" para="20">Although Apple had an early lead in the field, it was soon overtaken by a powerful partnership that relegated Apple to a niche technology player.</sentence>
+		<sentence doc="7" line="2" para="20">Ironically, that partnership was keyed by Intel, which paired with Microsoft Corp. to create the &quot;Wintel&quot; platform, which dominates desktop computing today.</sentence>
+		<sentence doc="7" line="1" para="21">Apple's switch comes as IBM, which made G5 processors used in Macintosh desktops, has also begun to focus on new partners.</sentence>
+		<sentence doc="7" line="2" para="21">A statement IBM released after Jobs' keynote speech did not react directly to Apple's impending chip switch.</sentence>
+		<sentence doc="7" line="3" para="21">Instead, IBM highlighted its own recent inroads in the video game industry.</sentence>
+		<sentence doc="7" line="1" para="22">&quot;IBM is aggressively moving the Power Architecture beyond the PC, as shown by our recent successes with the next-generation gaming systems announced by Sony, Microsoft and Nintendo,&quot; the statement said.</sentence>
+		<sentence doc="7" line="2" para="22">&quot;IBM is focused on the highest-value opportunities in each marketplace, and our direction with the Power Architecture is consistent with that strategy.&quot;</sentence>
+		<sentence doc="7" line="1" para="23">Meanwhile, Freescale Semiconductor Inc., the Austin, Texas, company that spun off from Motorola in 2004 and makes the G4 chips used in Apple laptops, also tried to downplay the loss of Apple.</sentence>
+		<sentence doc="7" line="1" para="24">&quot;Apple represents only 3 percent of total Freescale revenues,&quot; said a memo from Freescale Chairman and CEO Michel Mayer to employees, which the company released publicly.</sentence>
+		<sentence doc="7" line="2" para="24">&quot;It was becoming more and more difficult to justify that level of investment to provide the customized products Apple required to satisfy a small part of the market.&quot;</sentence>
+		<sentence doc="7" line="1" para="25">In the past year or so, some frustration in Cupertino with IBM was apparent.</sentence>
+		<sentence doc="7" line="2" para="25">About a year ago, Apple publicly blamed IBM for its short supply of PowerPC chips for the Power Mac G5 desktop computers.</sentence>
+		<sentence doc="7" line="1" para="26">Apple later said it had to delay the release of its new iMac computers because IBM couldn't meet Apple's demand for similar chips.</sentence>
+		<sentence doc="7" line="1" para="27">Another challenge Apple has been facing with IBM is delivering processors that consume less power and create less heat.</sentence>
+		<sentence doc="7" line="2" para="27">One of the biggest questions for Apple has been whether the computer-maker will be able to upgrade its lineup of laptop computers from PowerPC G4 chips to PowerPC G5 chips, which Apple Executive Vice President Tim Cook has called &quot;the mother of all thermal challenges.&quot;</sentence>
+		<sentence doc="7" line="1" para="28">On Monday, Jobs said a key factor in the switch was Intel's plans for chips with a performance-to- power-ratio more than four times greater than any PowerPC chip in the works.</sentence>
+		<sentence doc="7" line="1" para="29">The move to an Intel platform could provide quite a few headaches for software developers, who now have to retool their products, although Jobs said Apple engineers already have codes to ease the transition.</sentence>
+		<sentence doc="7" line="1" para="30">Apple announced the availability of a $999 Developer Transition Kit, consisting of an Intel-based Mac development system along with preview versions of Apple's own software for the Intel chips.</sentence>
+		<sentence doc="8" line="1" para="1">Apple Computer, for years a niche  operator, took another step toward the market mainstream Monday by  abandoning IBM chips in favour of Intel ones to power its trendy  Macintosh machines.</sentence>
+		<sentence doc="8" line="1" para="2">Chief executive Steve Jobs told 3,800 software developers  attending an annual Apple conference here that new Macs will come  with Intel microprocessors &quot;by this time next year&quot;.</sentence>
+		<sentence doc="8" line="1" para="3">Under the alliance with the world's biggest chip maker, all  Apple Macs will be equipped to handle Intel rather than IBM  processors by the end of 2007.</sentence>
+		<sentence doc="8" line="1" para="4">&quot;Our goal is to provide our customers with the best personal  computers in the world, and looking ahead Intel has the strongest  processor roadmap by far,&quot; Jobs said.</sentence>
+		<sentence doc="8" line="1" para="5">&quot;It's been 10 years since our transition to the (IBM) PowerPC,  and we think Intel's technology will help us create the best  personal computers for the next 10 years,&quot; he said.</sentence>
+		<sentence doc="8" line="1" para="6">The switch to Intel chips, which are already found on most  computers running the Microsoft Windows operating system, could  allow Apple to cut prices of its desirable but expensive systems.</sentence>
+		<sentence doc="8" line="1" para="7">The company has been trying hard to cash in on the runaway  success of its iPod digital music player, recently launching a &quot;Mac  Mini&quot; computer to lure customers away from Windows PCs.</sentence>
+		<sentence doc="8" line="1" para="8">However, analysts said that Apple's fanatically loyal fan base  may yet look askance at the Intel tie-up.</sentence>
+		<sentence doc="8" line="1" para="9">&quot;The world associates Intel with Windows,&quot; said Elise Bauer of  the Pacifica Group technology consultancy.</sentence>
+		<sentence doc="8" line="1" para="10">&quot;Intel is coupled with Windows to the point where we call it a  'Wintel' box.</sentence>
+		<sentence doc="8" line="2" para="10">If Apple is now embracing Intel, then there's some  rebranding for both companies, Intel and Apple, to do around that,&quot;  she said.</sentence>
+		<sentence doc="8" line="1" para="11">Software developers will have to rewrite Apple programs to  enable them to run on Intel-powered Macs.</sentence>
+		<sentence doc="8" line="1" para="12">Apple could also lose sales in the coming months as customers  wait for the switch to the more powerful Intel processors.</sentence>
+		<sentence doc="8" line="1" para="13">But Piper Jaffray analyst Gene Munster predicted that the  long-term gains from the new partnership will outweigh any  &quot;short-term pain&quot;.</sentence>
+		<sentence doc="8" line="1" para="14">Using Intel will give Apple a consistent supply of chips, bring  the price of Macs more in line with their competitors, and reach a  potentially larger developer community, Munster said.</sentence>
+		<sentence doc="8" line="1" para="15">Intel expressed delight at Apple's switch.</sentence>
+		<sentence doc="8" line="1" para="16">&quot;We are thrilled to have the world's most innovative personal  computer company as a customer,&quot; said Intel chief executive Paul  Otellini, who was introduced to the conference here by an exuberant  Jobs.</sentence>
+		<sentence doc="8" line="1" para="17">&quot;Apple helped found the PC industry and throughout the years has  been known for fresh ideas and new approaches,&quot; Otellini said.</sentence>
+		<sentence doc="8" line="1" para="18">&quot;We look forward to providing advanced chip technologies, and to  collaborating on new initiatives, to help Apple continue to deliver  innovative products for years to come.&quot;</sentence>
+		<sentence doc="8" line="1" para="19">IBM minimised the development.</sentence>
+		<sentence doc="8" line="2" para="19">It has sold its PC division to  Chinese group Lenovo and, in the chip market, is concentrating its  efforts on making powerful processors for games machines made by  Sony, Microsoft and Nintendo.</sentence>
+		<sentence doc="8" line="1" para="20">In a statement, the company said it was &quot;aggressively moving the  power architecture beyond the PC&quot;.</sentence>
+		<sentence doc="8" line="1" para="21">Apple was said to be unhappy with IBM's slow pace of development  of a G5 chip for its PowerBook and iBook laptop computers.</sentence>
+		<sentence doc="8" line="2" para="21">The chip  is already used in Mac desktops but generates too much heat for the  laptops.</sentence>
+		<sentence doc="8" line="1" para="22">At least one of the software developers at the San Francisco  conference said that Jobs' reversal will make it easier for them to  write programs for both the Apple and Windows systems.</sentence>
+		<sentence doc="8" line="1" para="23">&quot;We won't have to release two copies of applications for  different platforms,&quot; said Jiva DeVoe, whose Arizona software firm  makes project-management applications.</sentence>
+		<sentence doc="9" line="1" para="1">In a risky move that could further shrink its minuscule slice of the PC market, Apple Computer Inc. announced plans Monday to switch its Macintosh computers to the same Intel Corp. chips used in systems that run Microsoft Windows.</sentence>
+		<sentence doc="9" line="1" para="2">Apple, which for years suggested its users &quot;Think Different,&quot; will join all other PC makers in using microprocessors built on the x86 architecture.</sentence>
+		<sentence doc="9" line="2" para="2">The technology took root when IBM launched its first PC in 1981 and eventually turned Apple into a niche player.</sentence>
+		<sentence doc="9" line="1" para="3">&quot;Our goal is to provide our customers with the best personal computers in the world, and looking ahead Intel has the strongest processor roadmap by far,&quot; said Steve Jobs, Apple's CEO.</sentence>
+		<sentence doc="9" line="2" para="3">&quot;It's been ten years since our transition to the PowerPC, and we think Intel's technology will help us create the best personal computers for the next ten years.&quot;</sentence>
+		<sentence doc="9" line="1" para="4">Jobs said Apple will begin offering Macs with Intel processors by June 2006 and will switch its entire product line by the end of 2007.</sentence>
+		<sentence doc="10" line="1" para="1">While Apple Computer Inc.'s new embrace of Intel Corp. microprocessors leaves IBM in the cold, the news really isn't bad for Big Blue, which may have found the Apple account more trouble than it was worth.</sentence>
+		<sentence doc="10" line="1" para="2">For one thing, IBM Corp. derived relatively little revenue from making its &quot;Power&quot; brand of chips for Apple's Macintosh computers, which own about 2 percent of the global market.</sentence>
+		<sentence doc="10" line="1" para="3">IBM's future chip plans are focused elsewhere _ notably the next generation of video game consoles made by Microsoft Corp., Sony Corp. and Nintendo Co. IBM's chips also power several kinds of IBM server computers, which account for a huge chunk of the company's hardware revenue.</sentence>
+		<sentence doc="10" line="1" para="4">Both kinds of machines require such high levels of performance that it becomes an expensive and challenging proposition to adapt their chips for personal computers, especially mobile devices that present stricter energy and cooling requirements.</sentence>
+		<sentence doc="10" line="1" para="5">So while winning Apple's business gives Intel some bragging rights, ceasing to make chips for Macs will let IBM focus on markets it believes can be much bigger.</sentence>
+		<sentence doc="10" line="1" para="6">&quot;It's never a happy time when you lose a customer, no matter how large they are, but Apple's impact on the PC market is marginal at best these days,&quot; said Charles King, principal analyst at Pund-IT Research.</sentence>
+		<sentence doc="10" line="2" para="6">&quot;It will have more of a PR impact than a financial impact.&quot;</sentence>
+		<sentence doc="10" line="1" para="7">Added SG Cowen Co. analyst Steve Weber: &quot;This move will likely have indiscernible impact.&quot;</sentence>
+		<sentence doc="10" line="1" para="8">IBM shares were down 67 cents, 0.9 percent, at $75.12 in afternoon trading on the New York Stock Exchange.</sentence>
+		<sentence doc="10" line="1" para="9">IBM declined to comment on Apple's announcement Monday other than to release a statement reiterating its chip strategy.</sentence>
+		<sentence doc="10" line="2" para="9">&quot;IBM is aggressively moving the Power architecture beyond the PC,&quot; the statement said.</sentence>
+		<sentence doc="10" line="1" para="10">While most computer companies long ago abandoned chip manufacturing to industry-standard suppliers such as Intel and Advanced Micro Devices Inc., IBM has stayed with it as part of a broader strategy to distinguish the company as an innovative, high-end tech provider.</sentence>
+		<sentence doc="10" line="2" para="10">That desire to focus on top-tier markets motivated the recent spinoff of IBM's PC business to China's Lenovo Group Ltd.</sentence>
+		<sentence doc="10" line="1" para="11">With IBM's internal chip needs falling short of the company's manufacturing capacity _ and demand from outside companies such as Apple only tepid _ IBM's microelectronics division lost $252 million (now euro205 million) in 2003, the last year in which IBM released detailed figures.</sentence>
+		<sentence doc="10" line="2" para="11">The segment grew at a paltry 0.6 percent in 2004, while IBM's overall sales jumped 8.3 percent to $96 billion (euro78.2 billion).</sentence>
+		<sentence doc="10" line="1" para="12">But IBM's long-term microprocessing bet lies in a new breed of chips, code-named Cell, being developed with Sony and Toshiba Corp.</sentence>
+		<sentence doc="10" line="2" para="12">Promising blazing speeds and the ability to carry out 10 sets of computing instructions at once, Cell is due to come out next year.</sentence>
+		<sentence doc="10" line="1" para="13">Hopes for Cell are so high that Sony, which plans to use Cell chips in the next generation of PlayStation game consoles, has invested $325 million (euro264.8 million) in improvements to IBM's semiconductor plant in East Fishkill, New York.</sentence>
+		<sentence doc="10" line="1" para="14">IBM's production of chips for Apple accounted for only about 2 percent of Fishkill's capacity.</sentence>
+	</Sentences>
+	<Words>
+		<word count="132" text="appl"/>
+		<word count="102" text="'s"/>
+		<word count="80" text="it"/>
+		<word count="79" text="intel"/>
+		<word count="74" text="for"/>
+		<word count="73" text="chip"/>
+		<word count="69" text="ibm"/>
+		<word count="61" text="``"/>
+		<word count="61" text="''"/>
+		<word count="57" text="comput"/>
+		<word count="54" text="said"/>
+		<word count="44" text="is"/>
+		<word count="41" text="with"/>
+		<word count="39" text="on"/>
+		<word count="36" text="will"/>
+		<word count="34" text="by"/>
+		<word count="33" text="job"/>
+		<word count="32" text="year"/>
+		<word count="32" text="mac"/>
+		<word count="30" text="develop"/>
+		<word count="30" text="ha"/>
+		<word count="28" text="the"/>
+		<word count="28" text="compani"/>
+		<word count="26" text="which"/>
+		<word count="25" text="but"/>
+		<word count="24" text="an"/>
+		<word count="23" text="processor"/>
+		<word count="23" text="at"/>
+		<word count="23" text="as"/>
+		<word count="22" text="power"/>
+		<word count="22" text="use"/>
+		<word count="22" text="from"/>
+		<word count="21" text="new"/>
+		<word count="21" text="been"/>
+		<word count="21" text="powerpc"/>
+		<word count="20" text="be"/>
+		<word count="19" text="have"/>
+		<word count="19" text="market"/>
+		<word count="18" text="softwar"/>
+		<word count="18" text="make"/>
+		<word count="17" text="transit"/>
+		<word count="17" text="microsoft"/>
+		<word count="17" text="switch"/>
+		<word count="16" text="macintosh"/>
+		<word count="16" text="PC"/>
+		<word count="16" text="corp."/>
+		<word count="15" text="It"/>
+		<word count="15" text="wa"/>
+		<word count="14" text="world"/>
+		<word count="14" text="monday"/>
+		<word count="14" text="analyst"/>
+		<word count="14" text="machin"/>
+		<word count="14" text="microprocessor"/>
+		<word count="14" text="more"/>
+		<word count="14" text="system"/>
+		<word count="14" text="are"/>
+		<word count="13" text="industri"/>
+		<word count="13" text="person"/>
+		<word count="13" text="not"/>
+		<word count="13" text="run"/>
+		<word count="13" text="time"/>
+		<word count="13" text="next"/>
+		<word count="13" text="most"/>
+		<word count="12" text="move"/>
+		<word count="12" text="thi"/>
+		<word count="12" text="could"/>
+		<word count="12" text="custom"/>
+		<word count="12" text="than"/>
+		<word count="12" text="plan"/>
+		<word count="11" text="motorola"/>
+		<word count="11" text="firm"/>
+		<word count="11" text="announc"/>
+		<word count="11" text="technolog"/>
+		<word count="11" text="do"/>
+		<word count="11" text="n't"/>
+		<word count="11" text="inc."/>
+		<word count="11" text="when"/>
+		<word count="11" text="soni"/>
+		<word count="11" text="game"/>
+		<word count="11" text="laptop"/>
+		<word count="11" text="releas"/>
+		<word count="10" text="also"/>
+		<word count="10" text="confer"/>
+		<word count="10" text="report"/>
+		<word count="10" text="two"/>
+		<word count="10" text="they"/>
+		<word count="10" text="percent"/>
+		<word count="10" text="window"/>
+		<word count="9" text="desktop"/>
+		<word count="9" text="one"/>
+		<word count="9" text="share"/>
+		<word count="9" text="product"/>
+		<word count="9" text="our"/>
+		<word count="8" text="G5"/>
+		<word count="8" text="made"/>
+		<word count="8" text="between"/>
+		<word count="8" text="steve"/>
+		<word count="8" text="end"/>
+		<word count="8" text="partnership"/>
+		<word count="8" text="come"/>
+		<word count="8" text="suppli"/>
+		<word count="8" text="oper"/>
+		<word count="8" text="OS"/>
+		<word count="8" text="we"/>
+		<word count="7" text="consum"/>
+		<word count="7" text="begin"/>
+		<word count="7" text="had"/>
+		<word count="7" text="deliv"/>
+		<word count="7" text="now"/>
+		<word count="7" text="their"/>
+		<word count="7" text="program"/>
+		<word count="7" text="busi"/>
+		<word count="7" text="over"/>
+		<word count="7" text="ceo"/>
+		<word count="7" text="san"/>
+		<word count="7" text="francisco"/>
+		<word count="7" text="would"/>
+		<word count="7" text="can"/>
+		<word count="7" text="architectur"/>
+		<word count="7" text="10"/>
+		<word count="7" text="major"/>
+		<word count="7" text="sinc"/>
+		<word count="7" text="pc"/>
+		<word count="7" text="think"/>
+		<word count="7" text="2007"/>
+		<word count="7" text="some"/>
+		<word count="7" text="In"/>
+		<word count="7" text="X"/>
+		<word count="7" text="best"/>
+		<word count="7" text="provid"/>
+		<word count="6" text="execut"/>
+		<word count="6" text="electron"/>
+		<word count="6" text="presid"/>
+		<word count="6" text="group"/>
+		<word count="6" text="engin"/>
+		<word count="6" text="challeng"/>
+		<word count="6" text="were"/>
+		<word count="6" text="accord"/>
+		<word count="6" text="version"/>
+		<word count="6" text="gener"/>
+		<word count="6" text="much"/>
+		<word count="6" text="freescal"/>
+		<word count="6" text="lose"/>
+		<word count="6" text="such"/>
+		<word count="6" text="nintendo"/>
+		<word count="6" text="consol"/>
+		<word count="6" text="cell"/>
+		<word count="6" text="allianc"/>
+		<word count="6" text="sale"/>
+		<word count="6" text="long"/>
+		<word count="6" text="recent"/>
+		<word count="6" text="all"/>
+		<word count="6" text="player"/>
+		<word count="6" text="design"/>
+		<word count="6" text="cent"/>
+		<word count="6" text="We"/>
+		<word count="6" text="creat"/>
+		<word count="6" text="million"/>
+		<word count="6" text="intel-bas"/>
+		<word count="6" text="innov"/>
+		<word count="5" text="shift"/>
+		<word count="5" text="annual"/>
+		<word count="5" text="news.com"/>
+		<word count="5" text="wall"/>
+		<word count="5" text="street"/>
+		<word count="5" text="problem"/>
+		<word count="5" text="he"/>
+		<word count="5" text="work"/>
+		<word count="5" text="strategi"/>
+		<word count="5" text="other"/>
+		<word count="5" text="them"/>
+		<word count="5" text="A"/>
+		<word count="5" text="ago"/>
+		<word count="5" text="cupertino"/>
+		<word count="5" text="told"/>
+		<word count="5" text="becaus"/>
+		<word count="5" text="maker"/>
+		<word count="5" text="tri"/>
+		<word count="5" text="or"/>
+		<word count="5" text="video"/>
+		<word count="5" text="like"/>
+		<word count="5" text="about"/>
+		<word count="5" text="differ"/>
+		<word count="5" text="build"/>
+		<word count="5" text="just"/>
+		<word count="5" text="alreadi"/>
+		<word count="5" text="how"/>
+		<word count="5" text="did"/>
+		<word count="5" text="so"/>
+		<word count="5" text="kind"/>
+		<word count="5" text="found"/>
+		<word count="5" text="baker"/>
+		<word count="5" text="look"/>
+		<word count="5" text="help"/>
+		<word count="5" text="otellini"/>
+		<word count="5" text="platform"/>
+		<word count="5" text="statement"/>
+		<word count="4" text="hi"/>
+		<word count="4" text="focus"/>
+		<word count="4" text="consult"/>
+		<word count="4" text="here"/>
+		<word count="4" text="2006"/>
+		<word count="4" text="journal"/>
+		<word count="4" text="call"/>
+		<word count="4" text="--"/>
+		<word count="4" text="notebook"/>
+		<word count="4" text="semiconductor"/>
+		<word count="4" text="last"/>
+		<word count="4" text="that"/>
+		<word count="4" text="if"/>
+		<word count="4" text="who"/>
+		<word count="4" text="week"/>
+		<word count="4" text="I"/>
+		<word count="4" text="know"/>
+		<word count="4" text="later"/>
+		<word count="4" text="although"/>
+		<word count="4" text="financi"/>
+		<word count="4" text="corp"/>
+		<word count="4" text="tout"/>
+		<word count="4" text="today"/>
+		<word count="4" text="chang"/>
+		<word count="4" text="york"/>
+		<word count="4" text="long-term"/>
+		<word count="4" text="veri"/>
+		<word count="4" text="beyond"/>
+		<word count="4" text="part"/>
+		<word count="4" text="chief"/>
+		<word count="4" text="So"/>
+		<word count="4" text="music"/>
+		<word count="4" text="us"/>
+		<word count="4" text="down"/>
+		<word count="4" text="may"/>
+		<word count="4" text="go"/>
+		<word count="4" text="you"/>
+		<word count="4" text="futur"/>
+		<word count="4" text="less"/>
+		<word count="4" text="research"/>
+		<word count="4" text="get"/>
+		<word count="4" text="pentium"/>
+		<word count="4" text="give"/>
+		<word count="4" text="consist"/>
+		<word count="4" text="both"/>
+		<word count="4" text="lineup"/>
+		<word count="4" text="while"/>
+		<word count="4" text="impact"/>
+		<word count="3" text="gambl"/>
+		<word count="3" text="abandon"/>
+		<word count="3" text="home"/>
+		<word count="3" text="expect"/>
+		<word count="3" text="news"/>
+		<word count="3" text="becom"/>
+		<word count="3" text="heat"/>
+		<word count="3" text="featur"/>
+		<word count="3" text="G4"/>
+		<word count="3" text="off"/>
+		<word count="3" text="huge"/>
+		<word count="3" text="up"/>
+		<word count="3" text="perform"/>
+		<word count="3" text="charl"/>
+		<word count="3" text="co."/>
+		<word count="3" text="cool-run"/>
+		<word count="3" text="need"/>
+		<word count="3" text="abl"/>
+		<word count="3" text="win"/>
+		<word count="3" text="along"/>
+		<word count="3" text="reach"/>
+		<word count="3" text="confirm"/>
+		<word count="3" text="rumor"/>
+		<word count="3" text="anoth"/>
+		<word count="3" text="everi"/>
+		<word count="3" text="mini"/>
+		<word count="3" text="model"/>
+		<word count="3" text="By"/>
+		<word count="3" text="loss"/>
+		<word count="3" text="deal"/>
+		<word count="3" text="next-gener"/>
+		<word count="3" text="user"/>
+		<word count="3" text="largest"/>
+		<word count="3" text="after"/>
+		<word count="3" text="ani"/>
+		<word count="3" text="store"/>
+		<word count="3" text="specul"/>
+		<word count="3" text="insid"/>
+		<word count="3" text="current"/>
+		<word count="3" text="close"/>
+		<word count="3" text="success"/>
+		<word count="3" text="ipod"/>
+		<word count="3" text="where"/>
+		<word count="3" text="lead"/>
+		<word count="3" text="say"/>
+		<word count="3" text="price"/>
+		<word count="3" text="silicon"/>
+		<word count="3" text="valley"/>
+		<word count="3" text="small"/>
+		<word count="3" text="4"/>
+		<word count="3" text="desir"/>
+		<word count="3" text="promis"/>
+		<word count="3" text="never"/>
+		<word count="3" text="same"/>
+		<word count="3" text="continu"/>
+		<word count="3" text="allow"/>
+		<word count="3" text="start"/>
+		<word count="3" text="first"/>
+		<word count="3" text="avail"/>
+		<word count="3" text="line"/>
+		<word count="3" text="past"/>
+		<word count="3" text="worldwid"/>
+		<word count="3" text="kay"/>
+		<word count="3" text="2"/>
+		<word count="3" text="publicli"/>
+		<word count="3" text="delay"/>
+		<word count="3" text="out"/>
+		<word count="3" text="base"/>
+		<word count="3" text="into"/>
+		<word count="3" text="preview"/>
+		<word count="3" text="applic"/>
+		<word count="3" text="paul"/>
+		<word count="3" text="embrac"/>
+		<word count="3" text="june"/>
+		<word count="3" text="few"/>
+		<word count="3" text="then"/>
+		<word count="3" text="'ve"/>
+		<word count="3" text="nich"/>
+		<word count="3" text="focu"/>
+		<word count="3" text="own"/>
+		<word count="3" text="aggress"/>
+		<word count="3" text="onli"/>
+		<word count="3" text="revenu"/>
+		<word count="3" text="requir"/>
+		<word count="3" text="account"/>
+		<word count="2" text="prepar"/>
+		<word count="2" text="take"/>
+		<word count="2" text="unpreced"/>
+		<word count="2" text="14-year"/>
+		<word count="2" text="favor"/>
+		<word count="2" text="decis"/>
+		<word count="2" text="sunday"/>
+		<word count="2" text="broader"/>
+		<word count="2" text="against"/>
+		<word count="2" text="digit"/>
+		<word count="2" text="seismic"/>
+		<word count="2" text="richard"/>
+		<word count="2" text="doherti"/>
+		<word count="2" text="n.y."/>
+		<word count="2" text="bound"/>
+		<word count="2" text="rock"/>
+		<word count="2" text="phenomen"/>
+		<word count="2" text="cnet"/>
+		<word count="2" text="negoti"/>
+		<word count="2" text="alarm"/>
+		<word count="2" text="failur"/>
+		<word count="2" text="doe"/>
+		<word count="2" text="fan"/>
+		<word count="2" text="spun"/>
+		<word count="2" text="wolf"/>
+		<word count="2" text="needham"/>
+		<word count="2" text="and"/>
+		<word count="2" text="schedul"/>
+		<word count="2" text="stage"/>
+		<word count="2" text="face"/>
+		<word count="2" text="import"/>
+		<word count="2" text="must"/>
+		<word count="2" text="hard"/>
+		<word count="2" text="code"/>
+		<word count="2" text="relationship"/>
+		<word count="2" text="intern"/>
+		<word count="2" text="wish"/>
+		<word count="2" text="jump"/>
+		<word count="2" text="skeptic"/>
+		<word count="2" text="repres"/>
+		<word count="2" text="signific"/>
+		<word count="2" text="risk"/>
+		<word count="2" text="x86"/>
+		<word count="2" text="forc"/>
+		<word count="2" text="rewrit"/>
+		<word count="2" text="adapt"/>
+		<word count="2" text="insight"/>
+		<word count="2" text="64"/>
+		<word count="2" text="nathan"/>
+		<word count="2" text="brookwood"/>
+		<word count="2" text="larger"/>
+		<word count="2" text="profit"/>
+		<word count="2" text="away"/>
+		<word count="2" text="put"/>
+		<word count="2" text="produc"/>
+		<word count="2" text="toshiba"/>
+		<word count="2" text="code-nam"/>
+		<word count="2" text="playstat"/>
+		<word count="2" text="edit"/>
+		<word count="2" text="set"/>
+		<word count="2" text="prestigi"/>
+		<word count="2" text="longer"/>
+		<word count="2" text="internet"/>
+		<word count="2" text="due"/>
+		<word count="2" text="forg"/>
+		<word count="2" text="effort"/>
+		<word count="2" text="counter"/>
+		<word count="2" text="1991"/>
+		<word count="2" text="spinoff"/>
+		<word count="2" text="cite"/>
+		<word count="2" text="archriv"/>
+		<word count="2" text="wintel"/>
+		<word count="2" text="befor"/>
+		<word count="2" text="someon"/>
+		<word count="2" text="audienc"/>
+		<word count="2" text="road"/>
+		<word count="2" text="mani"/>
+		<word count="2" text="discount"/>
+		<word count="2" text="built"/>
+		<word count="2" text="reput"/>
+		<word count="2" text="rather"/>
+		<word count="2" text="cut"/>
+		<word count="2" text="directli"/>
+		<word count="2" text="dell"/>
+		<word count="2" text="benefit"/>
+		<word count="2" text="rel"/>
+		<word count="2" text="under"/>
+		<word count="2" text="energi"/>
+		<word count="2" text="three"/>
+		<word count="2" text="On"/>
+		<word count="2" text="day"/>
+		<word count="2" text="32"/>
+		<word count="2" text="37.92"/>
+		<word count="2" text="lost"/>
+		<word count="2" text="initi"/>
+		<word count="2" text="2003"/>
+		<word count="2" text="forward"/>
+		<word count="2" text="note"/>
+		<word count="2" text="frustrat"/>
+		<word count="2" text="inabl"/>
+		<word count="2" text="wide"/>
+		<word count="2" text="wo"/>
+		<word count="2" text="instal"/>
+		<word count="2" text="push"/>
+		<word count="2" text="button"/>
+		<word count="2" text="dump"/>
+		<word count="2" text="supplier"/>
+		<word count="2" text="entir"/>
+		<word count="2" text="standard"/>
+		<word count="2" text="reveal"/>
+		<word count="2" text="sold"/>
+		<word count="2" text="four"/>
+		<word count="2" text="3"/>
+		<word count="2" text="vice"/>
+		<word count="2" text="deriv"/>
+		<word count="2" text="big"/>
+		<word count="2" text="technic"/>
+		<word count="2" text="npd"/>
+		<word count="2" text="'re"/>
+		<word count="2" text="realli"/>
+		<word count="2" text="especi"/>
+		<word count="2" text="predict"/>
+		<word count="2" text="support"/>
+		<word count="2" text="stock"/>
+		<word count="2" text="peopl"/>
+		<word count="2" text="month"/>
+		<word count="2" text="difficult"/>
+		<word count="2" text="convert"/>
+		<word count="2" text="3,800"/>
+		<word count="2" text="attend"/>
+		<word count="2" text="kit"/>
+		<word count="2" text="thrill"/>
+		<word count="2" text="began"/>
+		<word count="2" text="superior"/>
+		<word count="2" text="no"/>
+		<word count="2" text="symbol"/>
+		<word count="2" text="happi"/>
+		<word count="2" text="team"/>
+		<word count="2" text="bring"/>
+		<word count="2" text="great"/>
+		<word count="2" text="hope"/>
+		<word count="2" text="there"/>
+		<word count="2" text="speech"/>
+		<word count="2" text="five"/>
+		<word count="2" text="right"/>
+		<word count="2" text="similar"/>
+		<word count="2" text="riski"/>
+		<word count="2" text="Wu"/>
+		<word count="2" text="present"/>
+		<word count="2" text="loyal"/>
+		<word count="2" text="anyon"/>
+		<word count="2" text="trade"/>
+		<word count="2" text="tech"/>
+		<word count="2" text="earli"/>
+		<word count="2" text="collabor"/>
+		<word count="2" text="key"/>
+		<word count="2" text="2004"/>
+		<word count="2" text="level"/>
+		<word count="2" text="invest"/>
+		<word count="2" text="short"/>
+		<word count="2" text="demand"/>
+		<word count="2" text="biggest"/>
+		<word count="2" text="took"/>
+		<word count="2" text="goal"/>
+		<word count="2" text="ahead"/>
+		<word count="2" text="strongest"/>
+		<word count="2" text="roadmap"/>
+		<word count="2" text="far"/>
+		<word count="2" text="expens"/>
+		<word count="2" text="launch"/>
+		<word count="2" text="munster"/>
+		<word count="2" text="advanc"/>
+		<word count="2" text="divis"/>
+		<word count="2" text="lenovo"/>
+		<word count="2" text="ten"/>
+		<word count="2" text="high"/>
+		<word count="2" text="devic"/>
+		<word count="2" text="manufactur"/>
+		<word count="2" text="capac"/>
+		<word count="2" text="billion"/>
+		<word count="2" text="fishkil"/>
+		<word count="1" text="steven"/>
+		<word count="1" text="P."/>
+		<word count="1" text="commit"/>
+		<word count="1" text="inform"/>
+		<word count="1" text="chesslik"/>
+		<word count="1" text="gambit"/>
+		<word count="1" text="turf"/>
+		<word count="1" text="war"/>
+		<word count="1" text="pit"/>
+		<word count="1" text="tradit"/>
+		<word count="1" text="emerg"/>
+		<word count="1" text="envision"/>
+		<word count="1" text="seaford"/>
+		<word count="1" text="intent"/>
+		<word count="1" text="friday"/>
+		<word count="1" text="servic"/>
+		<word count="1" text="previous"/>
+		<word count="1" text="increasingli"/>
+		<word count="1" text="crucial"/>
+		<word count="1" text="room"/>
+		<word count="1" text="ventil"/>
+		<word count="1" text="older"/>
+		<word count="1" text="loom"/>
+		<word count="1" text="ca"/>
+		<word count="1" text="keep"/>
+		<word count="1" text="constitu"/>
+		<word count="1" text="convinc"/>
+		<word count="1" text="wisdom"/>
+		<word count="1" text="succeed"/>
+		<word count="1" text="persuad"/>
+		<word count="1" text="graphic"/>
+		<word count="1" text="adob"/>
+		<word count="1" text="quark"/>
+		<word count="1" text="overhaul"/>
+		<word count="1" text="drag"/>
+		<word count="1" text="stormi"/>
+		<word count="1" text="decade-long"/>
+		<word count="1" text="publish"/>
+		<word count="1" text="morn"/>
+		<word count="1" text="discontinu"/>
+		<word count="1" text="network"/>
+		<word count="1" text="offici"/>
+		<word count="1" text="circul"/>
+		<word count="1" text="reason"/>
+		<word count="1" text="california-bas"/>
+		<word count="1" text="programm"/>
+		<word count="1" text="order"/>
+		<word count="1" text="surviv"/>
+		<word count="1" text="lower-end"/>
+		<word count="1" text="mid-2006"/>
+		<word count="1" text="higher-end"/>
+		<word count="1" text="break"/>
+		<word count="1" text="stem"/>
+		<word count="1" text="varieti"/>
+		<word count="1" text="balk"/>
+		<word count="1" text="concern"/>
+		<word count="1" text="low-volum"/>
+		<word count="1" text="wrestl"/>
+		<word count="1" text="tighten"/>
+		<word count="1" text="stranglehold"/>
+		<word count="1" text="hold"/>
+		<word count="1" text="80"/>
+		<word count="1" text="suffer"/>
+		<word count="1" text="setback"/>
+		<word count="1" text="reap"/>
+		<word count="1" text="windfal"/>
+		<word count="1" text="video-gam"/>
+		<word count="1" text="co-develop"/>
+		<word count="1" text="capabl"/>
+		<word count="1" text="US"/>
+		<word count="1" text="media"/>
+		<word count="1" text="onlin"/>
+		<word count="1" text="co-found"/>
+		<word count="1" text="caus"/>
+		<word count="1" text="disrupt"/>
+		<word count="1" text="scrambl"/>
+		<word count="1" text="high-profil"/>
+		<word count="1" text="adjust"/>
+		<word count="1" text="eros"/>
+		<word count="1" text="paper"/>
+		<word count="1" text="mean"/>
+		<word count="1" text="expand"/>
+		<word count="1" text="well"/>
+		<word count="1" text="special"/>
+		<word count="1" text="router"/>
+		<word count="1" text="phone"/>
+		<word count="1" text="dealt"/>
+		<word count="1" text="blow"/>
+		<word count="1" text="xbox"/>
+		<word count="1" text="360"/>
+		<word count="1" text="hit"/>
+		<word count="1" text="entertain"/>
+		<word count="1" text="microsoft-intel"/>
+		<word count="1" text="half"/>
+		<word count="1" text="rest"/>
+		<word count="1" text="updat"/>
+		<word count="1" text="faith"/>
+		<word count="1" text="sometimes-stormi"/>
+		<word count="1" text="align"/>
+		<word count="1" text="often"/>
+		<word count="1" text="refer"/>
+		<word count="1" text="macolyt"/>
+		<word count="1" text="portend"/>
+		<word count="1" text="someth"/>
+		<word count="1" text="sinist"/>
+		<word count="1" text="cupertino-bas"/>
+		<word count="1" text="leverag"/>
+		<word count="1" text="portabl"/>
+		<word count="1" text="boost"/>
+		<word count="1" text="stylish"/>
+		<word count="1" text="pricey"/>
+		<word count="1" text="ask"/>
+		<word count="1" text="answer"/>
+		<word count="1" text="himself"/>
+		<word count="1" text="crack"/>
+		<word count="1" text="hell"/>
+		<word count="1" text="despit"/>
+		<word count="1" text="sentiment"/>
+		<word count="1" text="effect"/>
+		<word count="1" text="raw"/>
+		<word count="1" text="compet"/>
+		<word count="1" text="low-cost"/>
+		<word count="1" text="seller"/>
+		<word count="1" text="inc"/>
+		<word count="1" text="woo"/>
+		<word count="1" text="santa"/>
+		<word count="1" text="clara-bas"/>
+		<word count="1" text="claim"/>
+		<word count="1" text="prestig"/>
+		<word count="1" text="finicki"/>
+		<word count="1" text="smallest"/>
+		<word count="1" text="armonk"/>
+		<word count="1" text="n.y.-bas"/>
+		<word count="1" text="fast-grow"/>
+		<word count="1" text="Co"/>
+		<word count="1" text="flat"/>
+		<word count="1" text="fell"/>
+		<word count="1" text="drop"/>
+		<word count="1" text="16"/>
+		<word count="1" text="27.17"/>
+		<word count="1" text="79"/>
+		<word count="1" text="75"/>
+		<word count="1" text="describ"/>
+		<word count="1" text="third"/>
+		<word count="1" text="form"/>
+		<word count="1" text="1976"/>
+		<word count="1" text="1994"/>
+		<word count="1" text="1996"/>
+		<word count="1" text="2001"/>
+		<word count="1" text="fuel"/>
+		<word count="1" text="high-perform"/>
+		<word count="1" text="materi"/>
+		<word count="1" text="envis"/>
+		<word count="1" text="amaz"/>
+		<word count="1" text="want"/>
+		<word count="1" text="He"/>
+		<word count="1" text="name"/>
+		<word count="1" text="reportedli"/>
+		<word count="1" text="process"/>
+		<word count="1" text="immens"/>
+		<word count="1" text="amount"/>
+		<word count="1" text="data"/>
+		<word count="1" text="without"/>
+		<word count="1" text="overh"/>
+		<word count="1" text="contrast"/>
+		<word count="1" text="still"/>
+		<word count="1" text="exist"/>
+		<word count="1" text="notic"/>
+		<word count="1" text="promot"/>
+		<word count="1" text="virtu"/>
+		<word count="1" text="view"/>
+		<word count="1" text="stabl"/>
+		<word count="1" text="secur"/>
+		<word count="1" text="even"/>
+		<word count="1" text="fraction"/>
+		<word count="1" text="clone"/>
+		<word count="1" text="play"/>
+		<word count="1" text="jupit"/>
+		<word count="1" text="michael"/>
+		<word count="1" text="gartenberg"/>
+		<word count="1" text="HP"/>
+		<word count="1" text="hack"/>
+		<word count="1" text="absolut"/>
+		<word count="1" text="non-appl"/>
+		<word count="1" text="imagin"/>
+		<word count="1" text="app"/>
+		<word count="1" text="spokesman"/>
+		<word count="1" text="mulloy"/>
+		<word count="1" text="origin"/>
+		<word count="1" text="1984"/>
+		<word count="1" text="decad"/>
+		<word count="1" text="potato"/>
+		<word count="1" text="3.8"/>
+		<word count="1" text="quarter"/>
+		<word count="1" text="roger"/>
+		<word count="1" text="client"/>
+		<word count="1" text="idc"/>
+		<word count="1" text="framingham"/>
+		<word count="1" text="thank"/>
+		<word count="1" text="itun"/>
+		<word count="1" text="retail"/>
+		<word count="1" text="america"/>
+		<word count="1" text="respect"/>
+		<word count="1" text="cachet"/>
+		<word count="1" text="rub"/>
+		<word count="1" text="endur"/>
+		<word count="1" text="difficulti"/>
+		<word count="1" text="suffici"/>
+		<word count="1" text="quantiti"/>
+		<word count="1" text="critic"/>
+		<word count="1" text="faster"/>
+		<word count="1" text="fail"/>
+		<word count="1" text="low-pow"/>
+		<word count="1" text="suitabl"/>
+		<word count="1" text="stephen"/>
+		<word count="1" text="director"/>
+		<word count="1" text="analysi"/>
+		<word count="1" text="port"/>
+		<word count="1" text="washington"/>
+		<word count="1" text="upsw"/>
+		<word count="1" text="what"/>
+		<word count="1" text="ground"/>
+		<word count="1" text="M"/>
+		<word count="1" text="probabl"/>
+		<word count="1" text="perhap"/>
+		<word count="1" text="low-end"/>
+		<word count="1" text="owner"/>
+		<word count="1" text="strong"/>
+		<word count="1" text="pledg"/>
+		<word count="1" text="sharp"/>
+		<word count="1" text="sell"/>
+		<word count="1" text="remain"/>
+		<word count="1" text="ibm-bas"/>
+		<word count="1" text="warn"/>
+		<word count="1" text="date"/>
+		<word count="1" text="draw"/>
+		<word count="1" text="near"/>
+		<word count="1" text="purchas"/>
+		<word count="1" text="until"/>
+		<word count="1" text="everybodi"/>
+		<word count="1" text="hiawatha"/>
+		<word count="1" text="bray"/>
+		<word count="1" text="brayglobe.com"/>
+		<word count="1" text="tiger"/>
+		<word count="1" text="popular"/>
+		<word count="1" text="x-86"/>
+		<word count="1" text="amd"/>
+		<word count="1" text="hail"/>
+		<word count="1" text="adopt"/>
+		<word count="1" text="histor"/>
+		<word count="1" text="calif."/>
+		<word count="1" text="offic"/>
+		<word count="1" text="spin-off"/>
+		<word count="1" text="warmli"/>
+		<word count="1" text="onstag"/>
+		<word count="1" text="hundr"/>
+		<word count="1" text="attende"/>
+		<word count="1" text="gestur"/>
+		<word count="1" text="icon"/>
+		<word count="1" text="final"/>
+		<word count="1" text="crowd"/>
+		<word count="1" text="moscon"/>
+		<word count="1" text="center"/>
+		<word count="1" text="west"/>
+		<word count="1" text="togeth"/>
+		<word count="1" text="skill"/>
+		<word count="1" text="excel"/>
+		<word count="1" text="21/2-year"/>
+		<word count="1" text="period"/>
+		<word count="1" text="full"/>
+		<word count="1" text="complet"/>
+		<word count="1" text="through"/>
+		<word count="1" text="realiz"/>
+		<word count="1" text="secretli"/>
+		<word count="1" text="campu"/>
+		<word count="1" text="fact"/>
+		<word count="1" text="case"/>
+		<word count="1" text="secret"/>
+		<word count="1" text="doubl"/>
+		<word count="1" text="life"/>
+		<word count="1" text="cross-platform"/>
+		<word count="1" text="groan"/>
+		<word count="1" text="cheer"/>
+		<word count="1" text="demonstr"/>
+		<word count="1" text="3.6"/>
+		<word count="1" text="ghz"/>
+		<word count="1" text="decid"/>
+		<word count="1" text="map"/>
+		<word count="1" text="effici"/>
+		<word count="1" text="consumpt"/>
+		<word count="1" text="forese"/>
+		<word count="1" text="mark"/>
+		<word count="1" text="combin"/>
+		<word count="1" text="visibl"/>
+		<word count="1" text="manag"/>
+		<word count="1" text="shaw"/>
+		<word count="1" text="american"/>
+		<word count="1" text="apple-intel"/>
+		<word count="1" text="spent"/>
+		<word count="1" text="alien"/>
+		<word count="1" text="kevin"/>
+		<word count="1" text="krewel"/>
+		<word count="1" text="in-stat/mdr"/>
+		<word count="1" text="easi"/>
+		<word count="1" text="done"/>
+		<word count="1" text="els"/>
+		<word count="1" text="wave"/>
+		<word count="1" text="per"/>
+		<word count="1" text="nasdaq"/>
+		<word count="1" text="62"/>
+		<word count="1" text="19.79"/>
+		<word count="1" text="agreement"/>
+		<word count="1" text="valu"/>
+		<word count="1" text="bridg"/>
+		<word count="1" text="gap"/>
+		<word count="1" text="ideolog"/>
+		<word count="1" text="opposit"/>
+		<word count="1" text="side"/>
+		<word count="1" text="25"/>
+		<word count="1" text="1980"/>
+		<word count="1" text="essenti"/>
+		<word count="1" text="inaugur"/>
+		<word count="1" text="era"/>
+		<word count="1" text="becam"/>
+		<word count="1" text="central"/>
+		<word count="1" text="brain"/>
+		<word count="1" text="field"/>
+		<word count="1" text="soon"/>
+		<word count="1" text="overtaken"/>
+		<word count="1" text="releg"/>
+		<word count="1" text="iron"/>
+		<word count="1" text="pair"/>
+		<word count="1" text="domin"/>
+		<word count="1" text="begun"/>
+		<word count="1" text="partner"/>
+		<word count="1" text="keynot"/>
+		<word count="1" text="react"/>
+		<word count="1" text="impend"/>
+		<word count="1" text="instead"/>
+		<word count="1" text="highlight"/>
+		<word count="1" text="inroad"/>
+		<word count="1" text="shown"/>
+		<word count="1" text="highest-valu"/>
+		<word count="1" text="opportun"/>
+		<word count="1" text="each"/>
+		<word count="1" text="marketplac"/>
+		<word count="1" text="direct"/>
+		<word count="1" text="meanwhil"/>
+		<word count="1" text="austin"/>
+		<word count="1" text="texa"/>
+		<word count="1" text="downplay"/>
+		<word count="1" text="total"/>
+		<word count="1" text="memo"/>
+		<word count="1" text="chairman"/>
+		<word count="1" text="michel"/>
+		<word count="1" text="mayer"/>
+		<word count="1" text="employe"/>
+		<word count="1" text="justifi"/>
+		<word count="1" text="satisfi"/>
+		<word count="1" text="appar"/>
+		<word count="1" text="blame"/>
+		<word count="1" text="imac"/>
+		<word count="1" text="meet"/>
+		<word count="1" text="question"/>
+		<word count="1" text="whether"/>
+		<word count="1" text="computer-mak"/>
+		<word count="1" text="upgrad"/>
+		<word count="1" text="tim"/>
+		<word count="1" text="cook"/>
+		<word count="1" text="mother"/>
+		<word count="1" text="thermal"/>
+		<word count="1" text="factor"/>
+		<word count="1" text="performance-to-"/>
+		<word count="1" text="power-ratio"/>
+		<word count="1" text="greater"/>
+		<word count="1" text="quit"/>
+		<word count="1" text="headach"/>
+		<word count="1" text="retool"/>
+		<word count="1" text="eas"/>
+		<word count="1" text="999"/>
+		<word count="1" text="step"/>
+		<word count="1" text="toward"/>
+		<word count="1" text="mainstream"/>
+		<word count="1" text="favour"/>
+		<word count="1" text="trendi"/>
+		<word count="1" text="equip"/>
+		<word count="1" text="handl"/>
+		<word count="1" text="cash"/>
+		<word count="1" text="runaway"/>
+		<word count="1" text="lure"/>
+		<word count="1" text="howev"/>
+		<word count="1" text="fanat"/>
+		<word count="1" text="yet"/>
+		<word count="1" text="askanc"/>
+		<word count="1" text="tie-up"/>
+		<word count="1" text="associ"/>
+		<word count="1" text="elis"/>
+		<word count="1" text="bauer"/>
+		<word count="1" text="pacifica"/>
+		<word count="1" text="coupl"/>
+		<word count="1" text="point"/>
+		<word count="1" text="'wintel"/>
+		<word count="1" text="box"/>
+		<word count="1" text="If"/>
+		<word count="1" text="rebrand"/>
+		<word count="1" text="around"/>
+		<word count="1" text="she"/>
+		<word count="1" text="enabl"/>
+		<word count="1" text="intel-pow"/>
+		<word count="1" text="wait"/>
+		<word count="1" text="piper"/>
+		<word count="1" text="jaffray"/>
+		<word count="1" text="gene"/>
+		<word count="1" text="gain"/>
+		<word count="1" text="outweigh"/>
+		<word count="1" text="short-term"/>
+		<word count="1" text="pain"/>
+		<word count="1" text="competitor"/>
+		<word count="1" text="potenti"/>
+		<word count="1" text="commun"/>
+		<word count="1" text="express"/>
+		<word count="1" text="delight"/>
+		<word count="1" text="introduc"/>
+		<word count="1" text="exuber"/>
+		<word count="1" text="throughout"/>
+		<word count="1" text="known"/>
+		<word count="1" text="fresh"/>
+		<word count="1" text="idea"/>
+		<word count="1" text="approach"/>
+		<word count="1" text="minimis"/>
+		<word count="1" text="chines"/>
+		<word count="1" text="concentr"/>
+		<word count="1" text="unhappi"/>
+		<word count="1" text="slow"/>
+		<word count="1" text="pace"/>
+		<word count="1" text="powerbook"/>
+		<word count="1" text="ibook"/>
+		<word count="1" text="too"/>
+		<word count="1" text="At"/>
+		<word count="1" text="least"/>
+		<word count="1" text="revers"/>
+		<word count="1" text="easier"/>
+		<word count="1" text="write"/>
+		<word count="1" text="copi"/>
+		<word count="1" text="jiva"/>
+		<word count="1" text="devo"/>
+		<word count="1" text="whose"/>
+		<word count="1" text="arizona"/>
+		<word count="1" text="project-manag"/>
+		<word count="1" text="further"/>
+		<word count="1" text="shrink"/>
+		<word count="1" text="minuscul"/>
+		<word count="1" text="slice"/>
+		<word count="1" text="suggest"/>
+		<word count="1" text="join"/>
+		<word count="1" text="root"/>
+		<word count="1" text="1981"/>
+		<word count="1" text="eventu"/>
+		<word count="1" text="turn"/>
+		<word count="1" text="offer"/>
+		<word count="1" text="leav"/>
+		<word count="1" text="cold"/>
+		<word count="1" text="bad"/>
+		<word count="1" text="blue"/>
+		<word count="1" text="troubl"/>
+		<word count="1" text="worth"/>
+		<word count="1" text="thing"/>
+		<word count="1" text="littl"/>
+		<word count="1" text="brand"/>
+		<word count="1" text="global"/>
+		<word count="1" text="elsewher"/>
+		<word count="1" text="notabl"/>
+		<word count="1" text="sever"/>
+		<word count="1" text="server"/>
+		<word count="1" text="chunk"/>
+		<word count="1" text="hardwar"/>
+		<word count="1" text="proposit"/>
+		<word count="1" text="mobil"/>
+		<word count="1" text="stricter"/>
+		<word count="1" text="cool"/>
+		<word count="1" text="brag"/>
+		<word count="1" text="ceas"/>
+		<word count="1" text="let"/>
+		<word count="1" text="believ"/>
+		<word count="1" text="bigger"/>
+		<word count="1" text="matter"/>
+		<word count="1" text="larg"/>
+		<word count="1" text="margin"/>
+		<word count="1" text="these"/>
+		<word count="1" text="king"/>
+		<word count="1" text="princip"/>
+		<word count="1" text="pund-it"/>
+		<word count="1" text="PR"/>
+		<word count="1" text="ad"/>
+		<word count="1" text="SG"/>
+		<word count="1" text="cowen"/>
+		<word count="1" text="weber"/>
+		<word count="1" text="indiscern"/>
+		<word count="1" text="67"/>
+		<word count="1" text="0.9"/>
+		<word count="1" text="75.12"/>
+		<word count="1" text="afternoon"/>
+		<word count="1" text="exchang"/>
+		<word count="1" text="declin"/>
+		<word count="1" text="comment"/>
+		<word count="1" text="reiter"/>
+		<word count="1" text="industry-standard"/>
+		<word count="1" text="micro"/>
+		<word count="1" text="stay"/>
+		<word count="1" text="distinguish"/>
+		<word count="1" text="high-end"/>
+		<word count="1" text="top-tier"/>
+		<word count="1" text="motiv"/>
+		<word count="1" text="china"/>
+		<word count="1" text="ltd"/>
+		<word count="1" text="fall"/>
+		<word count="1" text="outsid"/>
+		<word count="1" text="tepid"/>
+		<word count="1" text="microelectron"/>
+		<word count="1" text="252"/>
+		<word count="1" text="euro205"/>
+		<word count="1" text="detail"/>
+		<word count="1" text="figur"/>
+		<word count="1" text="segment"/>
+		<word count="1" text="grew"/>
+		<word count="1" text="paltri"/>
+		<word count="1" text="0.6"/>
+		<word count="1" text="overal"/>
+		<word count="1" text="8.3"/>
+		<word count="1" text="96"/>
+		<word count="1" text="euro78.2"/>
+		<word count="1" text="microprocess"/>
+		<word count="1" text="bet"/>
+		<word count="1" text="lie"/>
+		<word count="1" text="breed"/>
+		<word count="1" text="blaze"/>
+		<word count="1" text="speed"/>
+		<word count="1" text="abil"/>
+		<word count="1" text="carri"/>
+		<word count="1" text="instruct"/>
+		<word count="1" text="onc"/>
+		<word count="1" text="325"/>
+		<word count="1" text="euro264.8"/>
+		<word count="1" text="improv"/>
+		<word count="1" text="plant"/>
+		<word count="1" text="east"/>
+	</Words>
+</Topic>

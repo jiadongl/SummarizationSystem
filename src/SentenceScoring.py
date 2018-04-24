@@ -2,6 +2,7 @@ import nltk
 import operator
 import os
 import string
+import sys
 import xml.etree.ElementTree as ET
 from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -30,12 +31,12 @@ def CalculateSentenceScore(score):
 
 if __name__ == "__main__":
 
-    # TopicDir = sys.argv[1]
     TopicDir = '/Users/Jiadong/Desktop/573/SummarizationSystem/FeatureExtractionData/'
-    # TopicFile = sys.argv[2]
-    # TopicFile = '/Users/Jiadong/Desktop/573/SummarizationSystem/PreprocessedData/D0901A.xml'
-    # OutputDir = sys.argv[3]
     OutputDir = '/Users/Jiadong/Desktop/573/SummarizationSystem/SentenceScoreData/'
+
+    if len(sys.argv) > 1:
+        TopicDir = sys.argv[1]
+        OutputDir = sys.argv[2]
 
     for root, dirs, files in os.walk(TopicDir):
         for file in files:

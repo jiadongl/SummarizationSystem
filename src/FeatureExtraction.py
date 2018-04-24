@@ -2,6 +2,7 @@ import nltk
 import operator
 import os
 import string
+import sys
 import xml.etree.ElementTree as ET
 from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -25,7 +26,7 @@ def CalculateFrequencyScore(sentence):
             StemWord = PS.stem(word)
             if StemWord in WordsDict.keys():
                 score += WordsDict[StemWord]
-    if count == 0 :
+    if count == 0:
         return 0
     else:
         return score / count
@@ -37,13 +38,13 @@ def CalculatePositionScore(sentence):
     paraIndex = int(sentence[1])
     lineIndex = int(sentence[2])
 
-    if TotalDocsWeight != 0 :
-        score = DocsWeight[docIndex-1]/TotalDocsWeight + 1
+    if TotalDocsWeight != 0:
+        score = DocsWeight[docIndex - 1] / TotalDocsWeight + 1
 
-    if paraIndex == 1 :
+    if paraIndex == 1:
         score = score * 1.5
 
-    if lineIndex == 1 :
+    if lineIndex == 1:
         score = score * 1.5
 
     return score
@@ -59,6 +60,7 @@ def CalculateCueWordScore(sentence):
                 score += 1
     return score
 
+
 def CalculateSimilarityScore(sentence):
     score = 0
     words = nltk.word_tokenize(sentence[3])
@@ -72,12 +74,12 @@ def CalculateSimilarityScore(sentence):
 
 if __name__ == "__main__":
 
-    # TopicDir = sys.argv[1]
     TopicDir = '/Users/Jiadong/Desktop/573/SummarizationSystem/PreprocessedData/'
-    # TopicFile = sys.argv[2]
-    # TopicFile = '/Users/Jiadong/Desktop/573/SummarizationSystem/PreprocessedData/D0901A.xml'
-    # OutputDir = sys.argv[3]
     OutputDir = '/Users/Jiadong/Desktop/573/SummarizationSystem/FeatureExtractionData/'
+
+    if len(sys.argv) > 1:
+        TopicDir = sys.argv[1]
+        OutputDir = sys.argv[2]
 
     for root, dirs, files in os.walk(TopicDir):
         for file in files:
@@ -96,7 +98,7 @@ if __name__ == "__main__":
             DocsWeight = []
             TotalDocsWeight = 0
             # maybe more cue words
-            CueWords = ['therefore','hence','lastly','finally','meanwhile']
+            CueWords = ['therefore', 'hence', 'lastly', 'finally', 'meanwhile']
 
             FrequencyScore = 0
             PositionScore = 0
@@ -115,7 +117,8 @@ if __name__ == "__main__":
                         Headlines.append(Doc.text)
                 elif Content.tag == 'Sentences':
                     for Sentence in Content:
-                        Sentences.append([Sentence.get('doc'), Sentence.get('para'), Sentence.get('line'), Sentence.text])
+                        Sentences.append(
+                            [Sentence.get('doc'), Sentence.get('para'), Sentence.get('line'), Sentence.text])
                 elif Content.tag == 'Words':
                     for Word in Content:
                         WordsDict[Word.get('text')] = int(Word.get('count'))
@@ -160,7 +163,6 @@ if __name__ == "__main__":
 
             # print (Sentences)
             # print (WordsDict)
-
 
             ROOT = ET.Element('Topic', id=TopicId)
             SENTENCES = ET.SubElement(ROOT, 'Sentences')

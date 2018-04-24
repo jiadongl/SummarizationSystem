@@ -2,6 +2,7 @@ import nltk
 import operator
 import os
 import string
+import sys
 import xml.etree.ElementTree as ET
 from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -16,15 +17,16 @@ def prettify(elem):
 
 
 if __name__ == "__main__":
-
-    # TopicDir = sys.argv[1]
     TopicDir = '/Users/Jiadong/Desktop/573/SummarizationSystem/Data/UpdateSumm09_test_topics.xml'
-    # DataDir = sys.argv[2]
     DataDir = '/Users/Jiadong/Desktop/573/573/AQUAINT-2/'
-    # OutputDir = sys.argv[3]
     OutputDir = '/Users/Jiadong/Desktop/573/SummarizationSystem/PreprocessedData/'
 
-    IgnoredWords = ['the', 'of', 'a', 'to', 'that', 'and', 'in']
+    if len(sys.argv) > 1:
+        TopicDir = sys.argv[1]
+        DataDir = sys.argv[2]
+        OutputDir = sys.argv[3]
+
+    IgnoredWords = ['the', 'of', 'a', 'to', 'that', 'and', 'in', '``', "''"]
 
     PS = PorterStemmer()
     root = ET.parse(TopicDir).getroot()

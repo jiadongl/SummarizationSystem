@@ -13,3 +13,5 @@ The sentence score data will be stored in /home2/jiadongl/tmp/573/sandbox/Senten
 The output of result will be stored in /home2/jiadongl/tmp/573/sandbox/SentenceSelectionData/
 
 The config file evaluation result by ROUGE is in the result dir of this repository.
+
+

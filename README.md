@@ -5,7 +5,7 @@ Based on the latest D2 grade comments, I discovered two major issues failed my p
 1. I was try to writing file to my home directory on patas through the D2 shell script.
 2. I was using the training data instead of devset.
 
-In my latest commit , I have made a large redo for D2 to fix those problems. 
+In my latest commit 4e3c3c0c2ef8c69be41a369873861fe091b62d86 [4e3c3c0], I have made a large redo for D2 to fix those problems. 
 I also fixed some related filename and directory nesting issue.
 Now I think it is safe to run my program on patas.
 

@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a503c86-d6b0-4c07-8df6-c288ead92448" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Preprocess.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/RawData.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ScoreData.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ScoreSentence.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SelectSentence.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/TopicData.py" />
+      <change beforePath="$PROJECT_DIR$/D1.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/D2.cmd" afterPath="$PROJECT_DIR$/D2.cmd" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0901A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0902A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0903A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0904A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0905A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0906B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0907B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0908B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0909B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0910B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0911C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0912C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0913C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0914C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0915C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0916C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0917C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0918D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0919D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0920D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0921D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0922D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0923D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0924D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0925E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0926E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0927E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0928E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0929E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0930F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0931F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0932F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0933F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0934G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0935G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0936G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0937G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0938G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0939H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0940H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0941H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0942H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0943H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0944H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0901A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0902A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0903A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0904A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0905A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0906B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0907B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0908B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0909B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0910B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0911C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0912C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0913C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0914C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0915C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0916C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0917C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0918D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0919D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0920D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0921D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0922D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0923D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0924D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0925E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0926E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0927E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0928E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0929E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0930F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0931F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0932F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0933F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0934G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0935G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0936G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0937G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0938G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0939H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0940H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0941H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0942H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0943H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0944H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PreprocessedData/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0901A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0902A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0903A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0904A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0905A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0906B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0907B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0908B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0909B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0910B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0911C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0912C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0913C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0914C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0915C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0916C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0917C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0918D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0919D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0920D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0921D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0922D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0923D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0924D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0925E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0926E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0927E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0928E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0929E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0930F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0931F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0932F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0933F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0934G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0935G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0936G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0937G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0938G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0939H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0940H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0941H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0942H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0943H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0944H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceScoreData/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0901A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0902A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0903A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0904A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0905A.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0906B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0907B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0908B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0909B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0910B.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0911C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0912C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0913C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0914C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0915C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0916C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0917C.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0918D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0919D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0920D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0921D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0922D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0923D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0924D.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0925E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0926E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0927E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0928E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0929E.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0930F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0931F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0932F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0933F.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0934G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0935G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0936G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0937G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0938G.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0939H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0940H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0941H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0942H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0943H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0944H.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/test1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/UpdateSumm09_test_topics.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/data/data" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0901-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0901-A.M.100.A.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0902-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0902-A.M.100.A.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0903-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0903-A.M.100.A.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0904-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0904-A.M.100.A.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0905-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0905-A.M.100.A.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0906-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0906-A.M.100.B.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0907-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0907-A.M.100.B.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0908-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0908-A.M.100.B.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0909-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0909-A.M.100.B.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0910-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0910-A.M.100.B.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0911-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0911-A.M.100.C.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0912-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0912-A.M.100.C.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0913-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0913-A.M.100.C.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0914-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0914-A.M.100.C.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0915-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0915-A.M.100.C.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0916-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0916-A.M.100.C.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0917-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0917-A.M.100.C.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0918-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0918-A.M.100.D.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0919-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0919-A.M.100.D.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0920-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0920-A.M.100.D.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0921-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0921-A.M.100.D.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0922-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0922-A.M.100.D.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0923-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0923-A.M.100.D.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0924-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0924-A.M.100.D.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0925-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0925-A.M.100.E.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0926-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0926-A.M.100.E.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0927-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0927-A.M.100.E.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0928-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0928-A.M.100.E.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0929-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0929-A.M.100.E.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0930-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0930-A.M.100.F.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0931-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0931-A.M.100.F.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0932-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0932-A.M.100.F.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0933-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0933-A.M.100.F.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0934-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0934-A.M.100.G.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0935-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0935-A.M.100.G.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0936-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0936-A.M.100.G.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0937-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0937-A.M.100.G.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0938-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0938-A.M.100.G.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0939-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0939-A.M.100.H.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0940-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0940-A.M.100.H.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0941-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0941-A.M.100.H.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0942-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0942-A.M.100.H.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0943-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0943-A.M.100.H.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/D0944-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0944-A.M.100.H.10.txt" />
+      <change beforePath="$PROJECT_DIR$/outputs/D2/d2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/outputs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/results/D2/my_config" afterPath="$PROJECT_DIR$/results/D2/my_config" />
+      <change beforePath="$PROJECT_DIR$/results/D2/rouge.out" afterPath="$PROJECT_DIR$/results/D2/rouge.out" />
+      <change beforePath="$PROJECT_DIR$/results/results" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/D2.cmd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/D2_run_summarization.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/FeatureExtraction.py" afterPath="$PROJECT_DIR$/FeatureExtraction.py" />
+      <change beforePath="$PROJECT_DIR$/src/FeatureExtraction.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Preprocessing.py" afterPath="$PROJECT_DIR$/Preprocessing.py" />
+      <change beforePath="$PROJECT_DIR$/src/Preprocessing.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/SentenceScoring.py" afterPath="$PROJECT_DIR$/SentenceScoring.py" />
+      <change beforePath="$PROJECT_DIR$/src/SentenceScoring.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/SentenceSelection.py" afterPath="$PROJECT_DIR$/SentenceSelection.py" />
+      <change beforePath="$PROJECT_DIR$/src/SentenceSelection.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="D2_run.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D2_run.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Preprocess.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Preprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="D2.cmd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/D2.cmd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoreSentence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScoreSentence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectSentence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SelectSentence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceScoring.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SentenceScoring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceSelection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SentenceSelection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RawData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RawData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoreData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScoreData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="23" lean-forward="false" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TopicData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>USA</find>
+      <find>Track</find>
+      <find>information</find>
+      <find>dirs</find>
+      <find>_data</find>
+      <find>FrequencyScore</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Test.py" />
+        <option value="$PROJECT_DIR$/src/Preprocessing.py" />
+        <option value="$PROJECT_DIR$/src/FeatureData.py" />
+        <option value="$PROJECT_DIR$/src/FeatureExtraction.py" />
+        <option value="$PROJECT_DIR$/src/SentenceSelection.py" />
+        <option value="$PROJECT_DIR$/src/SelectSentence.py" />
+        <option value="$PROJECT_DIR$/D2_run.sh" />
+        <option value="$PROJECT_DIR$/src/D2_run.sh" />
+        <option value="$PROJECT_DIR$/src/TopicData.py" />
+        <option value="$PROJECT_DIR$/src/RawData.py" />
+        <option value="$PROJECT_DIR$/src/ScoreData.py" />
+        <option value="$PROJECT_DIR$/src/ScoreSentence.py" />
+        <option value="$PROJECT_DIR$/src/Preprocess.py" />
+        <option value="$PROJECT_DIR$/D2.cmd" />
+        <option value="$PROJECT_DIR$/ScoreSentence.py" />
+        <option value="$PROJECT_DIR$/SelectSentence.py" />
+        <option value="$PROJECT_DIR$/Preprocess.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="638" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SummarizationSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummarizationSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummarizationSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummarizationSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummarizationSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummarizationSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Preprocess">
+    <configuration name="Preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SummarizationSystem" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ScoreSentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SummarizationSystem" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScoreSentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="SelectSentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SummarizationSystem" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SelectSentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.Preprocess" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ScoreSentence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SelectSentence" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.Preprocess" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SelectSentence" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ScoreSentence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a503c86-d6b0-4c07-8df6-c288ead92448" name="Default" comment="" />
+      <created>1525585020539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525585020539</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22954726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42916092" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.389271" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4167813" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.208" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.389271" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22954726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42916092" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.208" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/D2_run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FeatureExtraction.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Preprocessing.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SentenceScoring.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SentenceSelection.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1720">
+          <caret line="276" column="4" lean-forward="false" selection-start-line="276" selection-start-column="4" selection-end-line="276" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-625606">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="1313" column="0" lean-forward="false" selection-start-line="1313" selection-start-column="0" selection-end-line="1313" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/-2010535109/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="4736" column="8" lean-forward="false" selection-start-line="4736" selection-start-column="8" selection-end-line="4736" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/GuidedSumm10_test_topics.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1149">
+          <caret line="169" column="29" lean-forward="false" selection-start-line="169" selection-start-column="29" selection-end-line="169" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/19960101_XIN_ENG">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/afp_eng_200410.xml">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputs/outputs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outputs/D2/d2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/results">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FeatureData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Preprocess/D1001A">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_run_summarization.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FeatureExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="170" column="66" lean-forward="false" selection-start-line="170" selection-start-column="66" selection-end-line="170" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="58" column="41" lean-forward="false" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RawData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScoreData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="23" lean-forward="false" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentenceScoring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentenceSelection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopicData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScoreSentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectSentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

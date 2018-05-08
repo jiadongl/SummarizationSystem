@@ -1,4 +1,4 @@
-executable = D2_run_summarization.sh
+executable = D2_run.sh
 getenv = true
 error = D2.error
 log = D2.log

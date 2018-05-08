@@ -1,259 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a503c86-d6b0-4c07-8df6-c288ead92448" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Preprocess.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/RawData.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScoreData.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ScoreSentence.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SelectSentence.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TopicData.py" />
-      <change beforePath="$PROJECT_DIR$/D1.cmd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/D2.cmd" afterPath="$PROJECT_DIR$/D2.cmd" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0901A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0902A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0903A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0904A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0905A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0906B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0907B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0908B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0909B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0910B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0911C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0912C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0913C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0914C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0915C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0916C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0917C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0918D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0919D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0920D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0921D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0922D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0923D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0924D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0925E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0926E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0927E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0928E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0929E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0930F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0931F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0932F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0933F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0934G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0935G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0936G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0937G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0938G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0939H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0940H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0941H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0942H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0943H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/D0944H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FeatureExtractionData/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0901A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0902A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0903A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0904A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0905A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0906B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0907B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0908B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0909B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0910B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0911C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0912C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0913C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0914C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0915C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0916C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0917C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0918D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0919D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0920D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0921D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0922D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0923D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0924D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0925E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0926E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0927E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0928E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0929E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0930F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0931F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0932F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0933F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0934G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0935G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0936G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0937G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0938G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0939H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0940H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0941H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0942H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0943H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/D0944H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PreprocessedData/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0901A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0902A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0903A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0904A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0905A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0906B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0907B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0908B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0909B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0910B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0911C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0912C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0913C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0914C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0915C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0916C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0917C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0918D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0919D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0920D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0921D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0922D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0923D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0924D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0925E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0926E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0927E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0928E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0929E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0930F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0931F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0932F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0933F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0934G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0935G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0936G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0937G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0938G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0939H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0940H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0941H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0942H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0943H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/D0944H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceScoreData/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0901A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0902A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0903A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0904A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0905A.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0906B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0907B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0908B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0909B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0910B.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0911C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0912C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0913C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0914C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0915C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0916C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0917C.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0918D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0919D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0920D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0921D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0922D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0923D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0924D.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0925E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0926E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0927E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0928E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0929E.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0930F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0931F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0932F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0933F.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0934G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0935G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0936G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0937G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0938G.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0939H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0940H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0941H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0942H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0943H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/D0944H.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentenceSelectionData/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Test/test1.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/UpdateSumm09_test_topics.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0901-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0901-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0902-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0902-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0903-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0903-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0904-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0904-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0905-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0905-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0906-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0906-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0907-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0907-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0908-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0908-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0909-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0909-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0910-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0910-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0911-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0911-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0912-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0912-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0913-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0913-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0914-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0914-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0915-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0915-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0916-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0916-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0917-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0917-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0918-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0918-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0919-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0919-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0920-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0920-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0921-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0921-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0922-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0922-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0923-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0923-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0924-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0924-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0925-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0925-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0926-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0926-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0927-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0927-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0928-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0928-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0929-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0929-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0930-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0930-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0931-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0931-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0932-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0932-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0933-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0933-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0934-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0934-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0935-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0935-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0936-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0936-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0937-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0937-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0938-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0938-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0939-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0939-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0940-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0940-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0941-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0941-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0942-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0942-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0943-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0943-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/D0944-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D2-training/D0944-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D2/d2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/outputs/outputs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/results/D2/my_config" afterPath="$PROJECT_DIR$/results/D2/my_config" />
-      <change beforePath="$PROJECT_DIR$/results/D2/rouge.out" afterPath="$PROJECT_DIR$/results/D2/rouge.out" />
-      <change beforePath="$PROJECT_DIR$/results/results" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/D2.cmd" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/D2_run_summarization.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/FeatureExtraction.py" afterPath="$PROJECT_DIR$/FeatureExtraction.py" />
-      <change beforePath="$PROJECT_DIR$/src/FeatureExtraction.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Preprocessing.py" afterPath="$PROJECT_DIR$/Preprocessing.py" />
-      <change beforePath="$PROJECT_DIR$/src/Preprocessing.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/SentenceScoring.py" afterPath="$PROJECT_DIR$/SentenceScoring.py" />
-      <change beforePath="$PROJECT_DIR$/src/SentenceScoring.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/SentenceSelection.py" afterPath="$PROJECT_DIR$/SentenceSelection.py" />
-      <change beforePath="$PROJECT_DIR$/src/SentenceSelection.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test" afterPath="" />
-    </list>
+    <list default="true" id="1a503c86-d6b0-4c07-8df6-c288ead92448" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="D2_run.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="D2_run.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/D2_run.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -273,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Preprocess.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Preprocess.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Preprocess.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
@@ -833,14 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2_run.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -922,6 +662,14 @@
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2_run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

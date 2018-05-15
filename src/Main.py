@@ -1,7 +1,10 @@
-import sys
 import os
-import Preprocess, InformationOrdering, ContentRealization, SummaryOutput
+import sys
 
+import ContentRealization
+import InformationOrdering
+import Preprocess
+import SummaryOutput
 
 if __name__ == "__main__":
     # Local path
@@ -10,9 +13,9 @@ if __name__ == "__main__":
     DataDir2 = '/Users/Jiadong/Desktop/573/573/AQUAINT-2'
 
     # Patas path
-    # TopicFile = '/home2/jiadongl/dropbox/17-18/573/Data/Documents/devtest/GuidedSumm10_test_topics.xml'
-    # DataDir1 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT'
-    # DataDir2 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT-2'
+    TopicFile = '/home2/jiadongl/dropbox/17-18/573/Data/Documents/devtest/GuidedSumm10_test_topics.xml'
+    DataDir1 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT'
+    DataDir2 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT-2'
 
     # Give argv
     if len(sys.argv) > 1:
@@ -43,8 +46,6 @@ if __name__ == "__main__":
         data.save(RawOutputDir + data.topic_id)
 
         selected_sentences = data.select_sentences()
-        # for sentence in data.sentences:
-        #     print(sentence)
 
         summary = InformationOrdering.order(selected_sentences)
 
@@ -52,8 +53,4 @@ if __name__ == "__main__":
 
         SummaryOutput.output(data.topic_id, summary)
 
-        print(data.topic_id, data.title, len(data.sentences), len(data.words.items()))
-        # for sentence in data.sentences:
-        #     print(sentence)
-
-        # break
+        print(data.topic_id, data.title)

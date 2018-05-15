@@ -3,6 +3,8 @@ import operator
 import Constant
 import nltk
 
+stemmer = nltk.stem.SnowballStemmer("english")
+
 
 class RawData:
 
@@ -36,18 +38,24 @@ class RawData:
 
             self.sentences.append([[doc_index, p_index, line_index], sentence])
             line_index += 1
+            words = nltk.word_tokenize(sentence)
+            words = nltk.pos_tag(words)
 
-            for word in Constant.word_tokenize(sentence):
-                if word not in self.words:
-                    self.words[word] = 0
-                self.words[word] += 1
+            for word in words:
+                if word[1] in Constant.POS_tag_weight and word[0] not in Constant.Ignore_words:
+                    weight = Constant.POS_tag_weight[word[1]]
+                    stem_word = stemmer.stem(word[0])
+                    if stem_word not in self.words:
+                        self.words[stem_word] = 0
+                    self.words[stem_word] += weight
 
     def calculate(self):
         words_weight = {}
-        for word in Constant.word_tokenize(self.title):
-            if word not in words_weight:
-                words_weight[word] = 0
-            words_weight[word] = 10
+        for word in nltk.word_tokenize(self.title):
+            stem_word = stemmer.stem(word)
+            if stem_word not in words_weight:
+                words_weight[stem_word] = 0
+            words_weight[stem_word] = max(self.words.values())
 
         for sentence in self.sentences:
             f = self.calculate_frequency_score(sentence[1], self.words)
@@ -59,24 +67,18 @@ class RawData:
 
     def calculate_frequency_score(self, sentence, words_dict):
         score = 0
-        count = 0
-        for word in Constant.word_tokenize(sentence):
-            if word in words_dict:
-                score += words_dict[word]
-                count += 1
-
-        if count == 0:
-            return 0
-        else:
-            return round(score, 2)
+        for word in nltk.word_tokenize(sentence):
+            stem_word = stemmer.stem(word)
+            if stem_word in words_dict:
+                score += words_dict[stem_word]
+        return score
 
     def calculate_similarity_score(self, sentence, words_weight):
         score = 0
-
-        for word in Constant.word_tokenize(sentence):
-            if word in words_weight:
-                score += words_weight[word]
-
+        for word in nltk.word_tokenize(sentence):
+            stem_word = stemmer.stem(word)
+            if stem_word in words_weight:
+                score += words_weight[stem_word]
         return score
 
     def calculate_position_score(self, index):
@@ -85,25 +87,26 @@ class RawData:
         line_index = index[2]
 
         if p_index == 1:
-            score = score * 1.5
+            score = score * 1.2
         if line_index == 1:
-            score = score * 1.5
+            score = score * 1.2
 
         return score
 
-    def calculate_total_score(self, FS, PS, SS):
-        return round((FS + SS) * PS, 2)
+    def calculate_total_score(self, f, s, p):
+        return round((f + s) * p, 2)
 
     def select_sentences(self):
         selected_sentences = []
         total = 0
         self.sentences = sorted(self.sentences, key=operator.itemgetter(2), reverse=True)
         for sentence in self.sentences:
-            words_count = len(nltk.word_tokenize(sentence[3]))
+            words_count = len(sentence[3].split())
             if (total + words_count) <= 100:
                 selected_sentences.append(sentence)
                 total += words_count
             else:
+                selected_sentences.append(sentence)
                 break
 
         return selected_sentences

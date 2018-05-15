@@ -2,10 +2,10 @@ import operator
 
 
 def order(selected_sentences):
-    # print("*****IO*****")
     summary = ''
+    last_sentence = selected_sentences.pop()
     selected_sentences = sorted(selected_sentences, key=operator.itemgetter(0))
     for sentence in selected_sentences:
-        # print(sentence)
-        summary += sentence[3]+'\n'
+        summary += sentence[3]+' '
+    summary += last_sentence[3]
     return summary

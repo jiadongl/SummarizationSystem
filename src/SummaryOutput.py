@@ -12,6 +12,5 @@ def output(topic_id, summary):
     try:
         with open(output_path, "w+") as f:
             f .write(summary)
-            print(summary)
     except IOError:
         print("Fail to output summary for " + topic_id)

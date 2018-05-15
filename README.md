@@ -1,5 +1,17 @@
 # SummarizationSystem-LING573
 
+latest updates (05/14/2018):
+Finished the D3.
+Work finished so far:
+Implement information ordering with temporal organization.
+Refine content selection with new attributes and different approaches.
+Restructured the D2 project.
+Fix a lot of bugs for D2.
+To run the project, please condor_submit D3.cmd in src/.
+
+
+
+
 latest updates (05/08/2018):
 Based on the latest D2 grade comments, I discovered two major issues failed my program running on patas.
 1. I was try to writing file to my home directory on patas through the D2 shell script.

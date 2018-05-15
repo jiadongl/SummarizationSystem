@@ -102,6 +102,8 @@ class RawData:
         self.sentences = sorted(self.sentences, key=operator.itemgetter(2), reverse=True)
         for sentence in self.sentences:
             words_count = len(sentence[3].split())
+            if words_count > 100 :
+                continue
             if (total + words_count) <= 100:
                 selected_sentences.append(sentence)
                 total += words_count

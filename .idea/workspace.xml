@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a503c86-d6b0-4c07-8df6-c288ead92448" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jiadong.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jiadong.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/data/Raw/D1001A" afterPath="$PROJECT_DIR$/data/Raw/D1001A" />
       <change beforePath="$PROJECT_DIR$/data/Raw/D1002A" afterPath="$PROJECT_DIR$/data/Raw/D1002A" />
@@ -50,56 +49,56 @@
       <change beforePath="$PROJECT_DIR$/data/Raw/D1044H" afterPath="$PROJECT_DIR$/data/Raw/D1044H" />
       <change beforePath="$PROJECT_DIR$/data/Raw/D1045H" afterPath="$PROJECT_DIR$/data/Raw/D1045H" />
       <change beforePath="$PROJECT_DIR$/data/Raw/D1046H" afterPath="$PROJECT_DIR$/data/Raw/D1046H" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1001-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1001-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1002-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1002-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1003-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1003-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1004-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1004-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1005-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1005-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1006-A.M.100.A.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1006-A.M.100.A.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1007-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1007-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1008-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1008-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1009-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1009-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1010-A.M.100.B.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1010-A.M.100.B.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1011-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1011-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1012-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1012-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1013-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1013-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1014-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1014-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1015-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1015-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1016-A.M.100.C.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1016-A.M.100.C.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1017-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1017-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1018-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1018-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1019-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1019-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1020-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1020-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1021-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1021-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1022-A.M.100.D.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1022-A.M.100.D.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1023-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1023-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1024-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1024-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1025-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1025-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1026-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1026-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1027-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1027-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1028-A.M.100.E.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1028-A.M.100.E.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1029-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1029-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1030-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1030-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1031-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1031-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1032-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1032-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1033-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1033-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1034-A.M.100.F.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1034-A.M.100.F.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1035-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1035-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1036-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1036-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1037-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1037-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1038-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1038-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1039-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1039-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1040-A.M.100.G.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1040-A.M.100.G.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1041-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1041-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1042-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1042-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1043-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1043-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1044-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1044-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1045-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1045-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/outputs/D3/D1046-A.M.100.H.10.txt" afterPath="$PROJECT_DIR$/outputs/D3/D1046-A.M.100.H.10.txt" />
-      <change beforePath="$PROJECT_DIR$/src/Constant.py" afterPath="$PROJECT_DIR$/src/Constant.py" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1001-A.M.100.A.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1002-A.M.100.A.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1003-A.M.100.A.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1004-A.M.100.A.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1005-A.M.100.A.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1006-A.M.100.A.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1007-A.M.100.B.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1008-A.M.100.B.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1009-A.M.100.B.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1010-A.M.100.B.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1011-A.M.100.C.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1012-A.M.100.C.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1013-A.M.100.C.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1014-A.M.100.C.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1015-A.M.100.C.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1016-A.M.100.C.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1017-A.M.100.D.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1018-A.M.100.D.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1019-A.M.100.D.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1020-A.M.100.D.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1021-A.M.100.D.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1022-A.M.100.D.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1023-A.M.100.E.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1024-A.M.100.E.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1025-A.M.100.E.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1026-A.M.100.E.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1027-A.M.100.E.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1028-A.M.100.E.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1029-A.M.100.F.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1030-A.M.100.F.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1031-A.M.100.F.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1032-A.M.100.F.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1033-A.M.100.F.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1034-A.M.100.F.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1035-A.M.100.G.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1036-A.M.100.G.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1037-A.M.100.G.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1038-A.M.100.G.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1039-A.M.100.G.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1040-A.M.100.G.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1041-A.M.100.H.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1042-A.M.100.H.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1043-A.M.100.H.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1044-A.M.100.H.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1045-A.M.100.H.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/outputs/D3/D1046-A.M.100.H.10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/results/D3_rouge_scores.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/results/my_config" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/ContentRealization.py" afterPath="$PROJECT_DIR$/src/ContentRealization.py" />
       <change beforePath="$PROJECT_DIR$/src/InformationOrdering.py" afterPath="$PROJECT_DIR$/src/InformationOrdering.py" />
-      <change beforePath="$PROJECT_DIR$/src/Main.py" afterPath="$PROJECT_DIR$/src/Main.py" />
       <change beforePath="$PROJECT_DIR$/src/RawData.py" afterPath="$PROJECT_DIR$/src/RawData.py" />
       <change beforePath="$PROJECT_DIR$/src/SummaryOutput.py" afterPath="$PROJECT_DIR$/src/SummaryOutput.py" />
     </list>
@@ -115,11 +114,51 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+            <state relative-caret-position="98">
+              <caret line="17" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SummaryOutput.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SummaryOutput.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InformationOrdering.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InformationOrdering.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentRealization.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ContentRealization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RawData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RawData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -170,6 +209,7 @@
       <replace>&quot; :</replace>
       <replace>Constant</replace>
       <replace />
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -197,11 +237,11 @@
         <option value="$PROJECT_DIR$/src/SelectSentence.py" />
         <option value="$PROJECT_DIR$/src/__init__.py" />
         <option value="$PROJECT_DIR$/src/Preprocess.py" />
-        <option value="$PROJECT_DIR$/src/SummaryOutput.py" />
         <option value="$PROJECT_DIR$/src/Constant.py" />
-        <option value="$PROJECT_DIR$/src/InformationOrdering.py" />
         <option value="$PROJECT_DIR$/src/ContentRealization.py" />
         <option value="$PROJECT_DIR$/src/RawData.py" />
+        <option value="$PROJECT_DIR$/src/InformationOrdering.py" />
+        <option value="$PROJECT_DIR$/src/SummaryOutput.py" />
         <option value="$PROJECT_DIR$/src/Main.py" />
       </list>
     </option>
@@ -678,44 +718,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SummaryOutput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RawData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="103" column="50" lean-forward="true" selection-start-line="103" selection-start-column="50" selection-end-line="103" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContentRealization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="117">
+          <caret line="109" column="21" lean-forward="false" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InformationOrdering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContentRealization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SummaryOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+        <state relative-caret-position="98">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="15" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>

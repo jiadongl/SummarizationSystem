@@ -4,7 +4,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1001-A.M.100.A.10.txt</P>
+      <P ID="10">D1001-A.M.100.A.10</P>
     </PEERS>
     <MODELS>
       <M ID="A">D1001-A.M.100.A.A</M>
@@ -18,7 +18,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1002-A.M.100.A.10.txt</P>
+      <P ID="10">D1002-A.M.100.A.10</P>
     </PEERS>
     <MODELS>
       <M ID="D">D1002-A.M.100.A.D</M>
@@ -32,7 +32,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1003-A.M.100.A.10.txt</P>
+      <P ID="10">D1003-A.M.100.A.10</P>
     </PEERS>
     <MODELS>
       <M ID="A">D1003-A.M.100.A.A</M>
@@ -46,7 +46,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1004-A.M.100.A.10.txt</P>
+      <P ID="10">D1004-A.M.100.A.10</P>
     </PEERS>
     <MODELS>
       <M ID="F">D1004-A.M.100.A.F</M>
@@ -60,7 +60,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1005-A.M.100.A.10.txt</P>
+      <P ID="10">D1005-A.M.100.A.10</P>
     </PEERS>
     <MODELS>
       <M ID="A">D1005-A.M.100.A.A</M>
@@ -74,7 +74,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1006-A.M.100.A.10.txt</P>
+      <P ID="10">D1006-A.M.100.A.10</P>
     </PEERS>
     <MODELS>
       <M ID="D">D1006-A.M.100.A.D</M>
@@ -88,7 +88,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1007-A.M.100.B.10.txt</P>
+      <P ID="10">D1007-A.M.100.B.10</P>
     </PEERS>
     <MODELS>
       <M ID="B">D1007-A.M.100.B.B</M>
@@ -102,7 +102,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1008-A.M.100.B.10.txt</P>
+      <P ID="10">D1008-A.M.100.B.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1008-A.M.100.B.H</M>
@@ -116,7 +116,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1009-A.M.100.B.10.txt</P>
+      <P ID="10">D1009-A.M.100.B.10</P>
     </PEERS>
     <MODELS>
       <M ID="C">D1009-A.M.100.B.C</M>
@@ -130,7 +130,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1010-A.M.100.B.10.txt</P>
+      <P ID="10">D1010-A.M.100.B.10</P>
     </PEERS>
     <MODELS>
       <M ID="B">D1010-A.M.100.B.B</M>
@@ -144,7 +144,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1011-A.M.100.C.10.txt</P>
+      <P ID="10">D1011-A.M.100.C.10</P>
     </PEERS>
     <MODELS>
       <M ID="C">D1011-A.M.100.C.C</M>
@@ -158,7 +158,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1012-A.M.100.C.10.txt</P>
+      <P ID="10">D1012-A.M.100.C.10</P>
     </PEERS>
     <MODELS>
       <M ID="E">D1012-A.M.100.C.E</M>
@@ -172,7 +172,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1013-A.M.100.C.10.txt</P>
+      <P ID="10">D1013-A.M.100.C.10</P>
     </PEERS>
     <MODELS>
       <M ID="C">D1013-A.M.100.C.C</M>
@@ -186,7 +186,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1014-A.M.100.C.10.txt</P>
+      <P ID="10">D1014-A.M.100.C.10</P>
     </PEERS>
     <MODELS>
       <M ID="G">D1014-A.M.100.C.G</M>
@@ -200,7 +200,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1015-A.M.100.C.10.txt</P>
+      <P ID="10">D1015-A.M.100.C.10</P>
     </PEERS>
     <MODELS>
       <M ID="C">D1015-A.M.100.C.C</M>
@@ -214,7 +214,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1016-A.M.100.C.10.txt</P>
+      <P ID="10">D1016-A.M.100.C.10</P>
     </PEERS>
     <MODELS>
       <M ID="B">D1016-A.M.100.C.B</M>
@@ -228,7 +228,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1017-A.M.100.D.10.txt</P>
+      <P ID="10">D1017-A.M.100.D.10</P>
     </PEERS>
     <MODELS>
       <M ID="A">D1017-A.M.100.D.A</M>
@@ -242,7 +242,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1018-A.M.100.D.10.txt</P>
+      <P ID="10">D1018-A.M.100.D.10</P>
     </PEERS>
     <MODELS>
       <M ID="C">D1018-A.M.100.D.C</M>
@@ -256,7 +256,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1019-A.M.100.D.10.txt</P>
+      <P ID="10">D1019-A.M.100.D.10</P>
     </PEERS>
     <MODELS>
       <M ID="F">D1019-A.M.100.D.F</M>
@@ -270,7 +270,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1020-A.M.100.D.10.txt</P>
+      <P ID="10">D1020-A.M.100.D.10</P>
     </PEERS>
     <MODELS>
       <M ID="D">D1020-A.M.100.D.D</M>
@@ -284,7 +284,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1021-A.M.100.D.10.txt</P>
+      <P ID="10">D1021-A.M.100.D.10</P>
     </PEERS>
     <MODELS>
       <M ID="B">D1021-A.M.100.D.B</M>
@@ -298,7 +298,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1022-A.M.100.D.10.txt</P>
+      <P ID="10">D1022-A.M.100.D.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1022-A.M.100.D.H</M>
@@ -312,7 +312,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1023-A.M.100.E.10.txt</P>
+      <P ID="10">D1023-A.M.100.E.10</P>
     </PEERS>
     <MODELS>
       <M ID="E">D1023-A.M.100.E.E</M>
@@ -326,7 +326,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1024-A.M.100.E.10.txt</P>
+      <P ID="10">D1024-A.M.100.E.10</P>
     </PEERS>
     <MODELS>
       <M ID="C">D1024-A.M.100.E.C</M>
@@ -340,7 +340,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1025-A.M.100.E.10.txt</P>
+      <P ID="10">D1025-A.M.100.E.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1025-A.M.100.E.H</M>
@@ -354,7 +354,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1026-A.M.100.E.10.txt</P>
+      <P ID="10">D1026-A.M.100.E.10</P>
     </PEERS>
     <MODELS>
       <M ID="G">D1026-A.M.100.E.G</M>
@@ -368,7 +368,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1027-A.M.100.E.10.txt</P>
+      <P ID="10">D1027-A.M.100.E.10</P>
     </PEERS>
     <MODELS>
       <M ID="B">D1027-A.M.100.E.B</M>
@@ -382,7 +382,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1028-A.M.100.E.10.txt</P>
+      <P ID="10">D1028-A.M.100.E.10</P>
     </PEERS>
     <MODELS>
       <M ID="D">D1028-A.M.100.E.D</M>
@@ -396,7 +396,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1029-A.M.100.F.10.txt</P>
+      <P ID="10">D1029-A.M.100.F.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1029-A.M.100.F.H</M>
@@ -410,7 +410,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1030-A.M.100.F.10.txt</P>
+      <P ID="10">D1030-A.M.100.F.10</P>
     </PEERS>
     <MODELS>
       <M ID="F">D1030-A.M.100.F.F</M>
@@ -424,7 +424,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1031-A.M.100.F.10.txt</P>
+      <P ID="10">D1031-A.M.100.F.10</P>
     </PEERS>
     <MODELS>
       <M ID="A">D1031-A.M.100.F.A</M>
@@ -438,7 +438,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1032-A.M.100.F.10.txt</P>
+      <P ID="10">D1032-A.M.100.F.10</P>
     </PEERS>
     <MODELS>
       <M ID="F">D1032-A.M.100.F.F</M>
@@ -452,7 +452,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1033-A.M.100.F.10.txt</P>
+      <P ID="10">D1033-A.M.100.F.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1033-A.M.100.F.H</M>
@@ -466,7 +466,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1034-A.M.100.F.10.txt</P>
+      <P ID="10">D1034-A.M.100.F.10</P>
     </PEERS>
     <MODELS>
       <M ID="F">D1034-A.M.100.F.F</M>
@@ -480,7 +480,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1035-A.M.100.G.10.txt</P>
+      <P ID="10">D1035-A.M.100.G.10</P>
     </PEERS>
     <MODELS>
       <M ID="E">D1035-A.M.100.G.E</M>
@@ -494,7 +494,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1036-A.M.100.G.10.txt</P>
+      <P ID="10">D1036-A.M.100.G.10</P>
     </PEERS>
     <MODELS>
       <M ID="F">D1036-A.M.100.G.F</M>
@@ -508,7 +508,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1037-A.M.100.G.10.txt</P>
+      <P ID="10">D1037-A.M.100.G.10</P>
     </PEERS>
     <MODELS>
       <M ID="B">D1037-A.M.100.G.B</M>
@@ -522,7 +522,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1038-A.M.100.G.10.txt</P>
+      <P ID="10">D1038-A.M.100.G.10</P>
     </PEERS>
     <MODELS>
       <M ID="C">D1038-A.M.100.G.C</M>
@@ -536,7 +536,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1039-A.M.100.G.10.txt</P>
+      <P ID="10">D1039-A.M.100.G.10</P>
     </PEERS>
     <MODELS>
       <M ID="D">D1039-A.M.100.G.D</M>
@@ -550,7 +550,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1040-A.M.100.G.10.txt</P>
+      <P ID="10">D1040-A.M.100.G.10</P>
     </PEERS>
     <MODELS>
       <M ID="F">D1040-A.M.100.G.F</M>
@@ -564,7 +564,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1041-A.M.100.H.10.txt</P>
+      <P ID="10">D1041-A.M.100.H.10</P>
     </PEERS>
     <MODELS>
       <M ID="E">D1041-A.M.100.H.E</M>
@@ -578,7 +578,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1042-A.M.100.H.10.txt</P>
+      <P ID="10">D1042-A.M.100.H.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1042-A.M.100.H.H</M>
@@ -592,7 +592,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1043-A.M.100.H.10.txt</P>
+      <P ID="10">D1043-A.M.100.H.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1043-A.M.100.H.H</M>
@@ -606,7 +606,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1044-A.M.100.H.10.txt</P>
+      <P ID="10">D1044-A.M.100.H.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1044-A.M.100.H.H</M>
@@ -620,7 +620,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1045-A.M.100.H.10.txt</P>
+      <P ID="10">D1045-A.M.100.H.10</P>
     </PEERS>
     <MODELS>
       <M ID="H">D1045-A.M.100.H.H</M>
@@ -634,7 +634,7 @@
     <MODEL-ROOT>/home2/jiadongl/dropbox/17-18/573/Data/models/devtest</MODEL-ROOT>
     <INPUT-FORMAT TYPE="SPL"/>
     <PEERS>
-      <P ID="txt">D1046-A.M.100.H.10.txt</P>
+      <P ID="10">D1046-A.M.100.H.10</P>
     </PEERS>
     <MODELS>
       <M ID="D">D1046-A.M.100.H.D</M>

@@ -106,7 +106,7 @@ class RawData:
                 selected_sentences.append(sentence)
                 total += words_count
             else:
-                selected_sentences.append(sentence)
+                # selected_sentences.append(sentence)
                 break
 
         return selected_sentences

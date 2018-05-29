@@ -1,3 +1,4 @@
+import gzip
 import re
 import xml.etree.ElementTree as Tree
 import RawData
@@ -51,10 +52,32 @@ def find_doc_file(doc_id, data_files):
 
 
 def process_file(doc_index, doc_id, file, raw_data):
-    if 'AQUAINT-2' in file:
+    if 'ENG-GW' in file :
+        return process_gz_file(doc_index, doc_id, file, raw_data)
+    elif 'AQUAINT-2' in file or 'ENG-GW' in file:
         return process_new_file(doc_index, doc_id, file, raw_data)
     else:
         return process_old_file(doc_index, doc_id, file, raw_data)
+
+
+def process_gz_file(doc_index, doc_id, doc_file, data):
+    try:
+        with gzip.open(doc_file, 'r') as f:
+            xml = f.read().decode("utf-8")
+        xml = '<?xml version="1.0" encoding="utf-8"?> <root> ' + xml + ' </root> '
+        xml = re.sub(r'&\S+;', ' ', xml)
+        parse_root = Tree.fromstring(xml)
+        for doc in parse_root:
+            if doc.get('id') == doc_id:
+                p_index = 1
+                for p in doc.find('TEXT'):
+                    data.process_data(doc_index, p_index, p.text)
+                    p_index += 1
+                break
+    except:
+        print('Fail to parse and extract file of ', doc_file)
+
+    return data
 
 
 def process_new_file(doc_index, doc_id, doc_file, data):

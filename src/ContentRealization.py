@@ -36,7 +36,7 @@ def realize(sentence):
 
 def process_queue(queue, last_punc, last_word_tag, next_word_tag, punc):
     # print(len(queue),queue)
-    if len(queue) < 3:
+    if len(queue) < 2:
         return ''
     elif last_punc == '--' and punc == '--':
         return ''
@@ -47,13 +47,13 @@ def process_queue(queue, last_punc, last_word_tag, next_word_tag, punc):
         else:
             return punc + ' '
 
-    else :
+    else:
         found_said = False
         for tag in queue:
             if tag[0].lower() == 'said':
                 found_said = True
 
-        if found_said and len(queue)<10:
+        if found_said and len(queue) < 10:
             # print(len(queue), queue)
             if punc == ',':
                 return ' '
@@ -68,3 +68,19 @@ def process_queue(queue, last_punc, last_word_tag, next_word_tag, punc):
             if punc == '.' or punc == '?' or punc == '!':
                 sentence += punc
             return sentence
+
+
+def max_similarity(selected_sentences, test):
+    max_match = 0
+    words = test[5].split()
+    if len(words) == 0:
+        return 1
+    for sentence in selected_sentences:
+        similarity = 0
+        for word in words:
+            if word in sentence[5]:
+                similarity += 1
+        if similarity > max_match:
+            max_match = similarity
+
+    return max_match / len(words)

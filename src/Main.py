@@ -39,6 +39,9 @@ if __name__ == "__main__":
             DataFiles[os.path.join(root, file)] = file.lower()
 
     for data in all_raw_data:
+        # if data.topic_id != 'D1020D':
+        #     continue
+
         data = Preprocess.process_docset(data, DataFiles)
 
         data.calculate()
@@ -46,23 +49,18 @@ if __name__ == "__main__":
         data.sort_sentences()
 
         selected_sentences = []
-        index = 0
         summary_count = 0
-        while True:
+        for index in range(min(20, len(data.sentences))):
             sentence = data.select_sentence(index)
             sentence = ContentRealization.realize(sentence)
-            summary_count += len(sentence[5].split())
-            if summary_count <= 100:
+            count = len(sentence[5].split())
+            if summary_count + count <= 100:
+                summary_count += count
                 selected_sentences.append(sentence)
-                index += 1
-                continue
-            else:
-                break
 
         summary = InformationOrdering.order(selected_sentences)
 
         SummaryOutput.output(data.topic_id, summary)
 
         print(data.topic_id, data.title)
-        # print(summary)
-        # break
+        print(summary)

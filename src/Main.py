@@ -13,9 +13,9 @@ if __name__ == "__main__":
     DataDir2 = '/Users/Jiadong/Desktop/573/573/AQUAINT-2'
 
     # Patas path
-    TopicFile = '/home2/jiadongl/dropbox/17-18/573/Data/Documents/devtest/GuidedSumm10_test_topics.xml'
-    DataDir1 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT'
-    DataDir2 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT-2'
+    # TopicFile = '/home2/jiadongl/dropbox/17-18/573/Data/Documents/devtest/GuidedSumm10_test_topics.xml'
+    # DataDir1 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT'
+    # DataDir2 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT-2'
 
     # Give argv
     if len(sys.argv) > 1:
@@ -43,14 +43,26 @@ if __name__ == "__main__":
 
         data.calculate()
 
-        data.save(RawOutputDir + data.topic_id)
+        data.sort_sentences()
 
-        selected_sentences = data.select_sentences()
+        selected_sentences = []
+        index = 0
+        summary_count = 0
+        while True:
+            sentence = data.select_sentence(index)
+            sentence = ContentRealization.realize(sentence)
+            summary_count += len(sentence[5].split())
+            if summary_count <= 100:
+                selected_sentences.append(sentence)
+                index += 1
+                continue
+            else:
+                break
 
         summary = InformationOrdering.order(selected_sentences)
-
-        summary = ContentRealization.realize(summary)
 
         SummaryOutput.output(data.topic_id, summary)
 
         print(data.topic_id, data.title)
+        # print(summary)
+        # break

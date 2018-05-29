@@ -1,6 +1,6 @@
 import os
 
-OutputDir = '../outputs/D3/'
+OutputDir = '../outputs/D4/'
 
 
 def output(topic_id, summary):

@@ -2,11 +2,150 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a503c86-d6b0-4c07-8df6-c288ead92448" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/D4.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D4.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContentRealization.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContentRealization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1001-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1002-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1003-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1004-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1005-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1006-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1007-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1008-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1009-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1010-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1011-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1012-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1013-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1014-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1015-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1016-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1017-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1018-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1019-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1020-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1021-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1022-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1023-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1024-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1025-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1026-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1027-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1028-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1029-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1030-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1031-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1032-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1033-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1034-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1035-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1036-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1037-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1038-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1039-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1040-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1041-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1042-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1043-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1044-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1045-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4/D1046-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1001-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1002-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1003-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1004-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1005-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1006-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1007-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1008-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1009-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1010-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1011-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1012-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1013-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1014-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1015-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1016-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1017-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1018-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1019-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1020-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1021-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1022-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1023-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1024-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1025-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1026-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1027-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1028-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1029-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1030-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1031-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1032-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1033-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1034-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1035-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1036-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1037-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1038-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1039-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1040-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1041-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1042-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1043-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1044-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1045-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_devtest/D1046-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1101-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1102-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1103-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1104-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1105-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1106-A.M.100.A.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1107-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1108-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1109-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1110-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1111-A.M.100.B.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1112-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1113-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1114-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1115-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1116-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1117-A.M.100.C.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1118-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1119-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1120-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1121-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1122-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1123-A.M.100.D.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1124-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1125-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1126-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1127-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1128-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1129-A.M.100.E.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1130-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1131-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1132-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1133-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1134-A.M.100.F.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1135-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1136-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1137-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1138-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1139-A.M.100.G.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1140-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1141-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1142-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1143-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/D4_evaltest/D1144-A.M.100.H.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/D4_rouge_scores.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/my_config" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Preprocess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SummaryOutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SummaryOutput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/error" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/log" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,23 +156,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="325">
+              <caret line="27" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SummaryOutput.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SummaryOutput.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -59,23 +189,34 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="D3_rouge_scores.out" pinned="false" current-in-tab="true">
+      <file leaf-file-name="D3_rouge_scores.out" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/results/D3_rouge_scores.out">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-785" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="D4.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D4.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="D4.cmd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/D4.cmd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="D4_evaltest_rouge_scores.out" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/results/D4_evaltest_rouge_scores.out">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="InformationOrdering.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InformationOrdering.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="Preprocess.py" pinned="false" current-in-tab="false">
@@ -85,18 +226,6 @@
               <caret line="62" column="55" selection-start-line="62" selection-start-column="55" selection-end-line="62" selection-end-column="55" />
               <folding>
                 <element signature="e#1#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RawData.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RawData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,7 +242,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>word_tokenize</find>
       <find>MD</find>
       <find>RP</find>
       <find>WP</find>
@@ -143,6 +271,7 @@
       <find>Always</find>
       <find>Cannot find target file for</find>
       <find>print</find>
+      <find>data</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot; :</replace>
@@ -179,8 +308,10 @@
         <option value="$PROJECT_DIR$/src/RawData.py" />
         <option value="$PROJECT_DIR$/src/SummaryOutput.py" />
         <option value="$PROJECT_DIR$/src/Preprocess.py" />
-        <option value="$PROJECT_DIR$/src/Main.py" />
         <option value="$PROJECT_DIR$/src/ContentRealization.py" />
+        <option value="$PROJECT_DIR$/src/D4.cmd" />
+        <option value="$PROJECT_DIR$/src/D4.sh" />
+        <option value="$PROJECT_DIR$/src/Main.py" />
       </list>
     </option>
   </component>
@@ -204,7 +335,7 @@
             <path>
               <item name="SummarizationSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="SummarizationSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SummarizationSystem" type="b2602c69:ProjectViewProjectNode" />
@@ -232,14 +363,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/data" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,10 +538,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/outputs/outputs" />
-    <entry file="file://$PROJECT_DIR$/outputs/D2/d2" />
-    <entry file="file://$PROJECT_DIR$/results/results" />
-    <entry file="file://$PROJECT_DIR$/src/FeatureData.py" />
     <entry file="file://$PROJECT_DIR$/data/Preprocess/D1001A" />
     <entry file="file://$PROJECT_DIR$/D2.cmd" />
     <entry file="file://$PROJECT_DIR$/D2_run_summarization.sh" />
@@ -463,13 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/D3.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -534,23 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContentRealization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/results/D4_evaltest_rouge_scores.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -563,7 +666,53 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/D3_rouge_scores.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D3.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContentRealization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/error">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D4.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/D4.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

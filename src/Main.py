@@ -8,30 +8,30 @@ import SummaryOutput
 
 if __name__ == "__main__":
 
-    # dev
-    TopicFile = '../data/GuidedSumm10_test_topics.xml'
-    OutputDir = '../outputs/D4_devtest/'
+    # Give argv
+    if len(sys.argv) >= 1:
+        target_data = sys.argv[1]
 
-    # eval
-    TopicFile = '../data/GuidedSumm11_test_topics.xml'
-    OutputDir = '../outputs/D4_evaltest/'
+    if target_data == 'dev' :
+        # dev
+        TopicFile = '../data/GuidedSumm10_test_topics.xml'
+        OutputDir = '../outputs/D4_devtest/'
+    else:
+        # eval
+        TopicFile = '../data/GuidedSumm11_test_topics.xml'
+        OutputDir = '../outputs/D4_evaltest/'
 
     # Local path
-    DataDir0 = '/Users/Jiadong/Desktop/573/573/TIPSTER_V3'
-    DataDir1 = '/Users/Jiadong/Desktop/573/573/AQUAINT'
-    DataDir2 = '/Users/Jiadong/Desktop/573/573/AQUAINT-2'
-    DataDir3 = '/Users/Jiadong/Desktop/573/573/ENG-GW'
+    # DataDir0 = '/Users/Jiadong/Desktop/573/573/TIPSTER_V3'
+    # DataDir1 = '/Users/Jiadong/Desktop/573/573/AQUAINT'
+    # DataDir2 = '/Users/Jiadong/Desktop/573/573/AQUAINT-2'
+    # DataDir3 = '/Users/Jiadong/Desktop/573/573/ENG-GW'
 
     # Patas path
-    # DataDir1 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT'
-    # DataDir2 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT-2'
-    # DataDir3 = '/home2/jiadongl/dropbox/17-18/573/ENG_GW'
-    # DataDir4 = '/home2/jiadongl/dropbox/17-18/573/TIPSTER_V3'
-
-    # Give argv
-    if len(sys.argv) > 1:
-        TopicFile = sys.argv[1]
-        OutputDir = sys.argv[2]
+    DataDir0 = '/home2/jiadongl/dropbox/17-18/573/TIPSTER_V3'
+    DataDir1 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT'
+    DataDir2 = '/home2/jiadongl/dropbox/17-18/573/AQUAINT-2'
+    DataDir3 = '/home2/jiadongl/dropbox/17-18/573/ENG_GW'
 
     all_raw_data = Preprocess.process_topic_file(TopicFile)
     all_score_data = []

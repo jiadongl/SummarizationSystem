@@ -1,5 +1,15 @@
 # SummarizationSystem-LING573
 
+
+latest updates (05/30/2018):
+Finished the D4.
+Work finished so far:
+Implement content realization.
+Refine content selection with new attributes and different approaches.
+To run the project, please condor_submit D4.cmd in src/.
+
+
+
 latest updates (05/14/2018):
 Finished the D3.
 Work finished so far:

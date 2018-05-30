@@ -36,7 +36,7 @@ def realize(sentence):
 
 def process_queue(queue, last_punc, last_word_tag, next_word_tag, punc):
     # print(len(queue),queue)
-    if len(queue) < 2:
+    if len(queue) < 3:
         return ''
     elif last_punc == '--' and punc == '--':
         return ''
